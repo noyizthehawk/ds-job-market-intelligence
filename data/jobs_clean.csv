@@ -1,0 +1,1001 @@
+job_title,seniority,skills,salary_min,salary_max,location,company
+Data Scientist,Not specified,"['data science', 'computer science', 'hard science', 'data analysis', 'Artificial Intelligence', 'Generative AI', 'Agentic AI']",104652.35,104652.35,CINCINNATI GENERAL OFFICES,Procter & Gamble
+Supply Chain Data Scientist,Mid-level to Senior,"['Predictive modeling', 'Prescriptive analytics', 'Optimization', 'Anomaly detection', 'Simulation modeling', 'Supply chain management', 'Data engineering collaboration', 'AI engineering', 'Stakeholder management']",145149.7,145149.7,,Stellantis
+Senior Data Scientist,Senior,"['AI', 'predictive modeling', 'prescriptive analytics', 'optimization', 'anomaly detection', 'simulation models', 'supply chain analytics', 'data science']",175094.31,175094.31,,Stellantis
+Data Scientist,Mid to Senior Level,"['Data Analysis', 'Predictive Analytics', 'Analytics Modeling', 'Data Product Development', 'Warranty Analytics', 'Quality Analytics', 'Scalable Analytics']",82963.55,82963.55,North America,Stellantis
+Data Scientist,Senior,"['Data modeling', 'Algorithm development', 'Supply Chain knowledge', 'Stakeholder collaboration', 'Data engineering', 'Advanced analytics']",108276.3,108276.3,,Stellantis
+Unknown,Unknown,[],144116.86,144116.86,Unknown,FM
+Data Scientist,Not specified,"['data analytics', 'machine learning', 'artificial intelligence', 'predictive modeling']",120000.0,160000.0,Not specified,ManTech International
+Bioinformatics Support I – Data Science & Informatics,Entry-level/Junior,"['Bioinformatics', 'Data Science', 'Informatics', 'Public health surveillance', 'Analytical skills', 'Technical support']",111689.49,111689.49,,Cherokee Federal
+Lead Data Scientist,Lead,"['data science', 'analytical modeling', 'team leadership', 'intelligence analysis', 'prototype design', 'model deployment']",135000.0,200000.0,,ManTech International
+Senior Data Scientist,Senior,"['data science', 'artificial intelligence', 'advanced analytical frameworks', 'cybersecurity', 'electronic warfare', 'information technology']",125000.0,175000.0,,Castellum Inc
+Data Scientist,Mid-level to Senior,['TS/SCI with Polygraph security clearance'],143646.22,143646.22,,GliaCell Technologies
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",142083.62,142083.62,,Booz Allen Hamilton
+Data Analytics & Reporting,Not specified,"['machine learning', 'deep learning', 'artificial intelligence', 'data modeling', 'predictive modeling', 'big data technology', 'structured data analysis', 'unstructured data analysis', 'advanced analytical algorithms']",176080.61,176080.61,Chicago (hybrid) - 320 S Canal Street,BMO Financial
+Senior Data Scientist,Senior,"['predictive analytics', 'predictive modeling', 'analytical solutions', 'data science']",182159.08,182159.08,,Randstad Digital
+Data Scientist,experienced,"['data pipelines', 'advanced analytics', 'scalable systems']",231958.75,231958.75,"San Antonio, TX","Judge Group, Inc."
+Data Scientist,Mid-level,"['Data Science', 'AI/Machine Learning', 'Training Data Analysis', 'Feature Engineering', 'Bias Detection', 'Cybersecurity', 'Data Quality Assessment']",135406.19,135406.19,"Fort Meade, MD",GovCIO
+Data Scientist,Not specified,"['Data Science', 'Systems Engineering', 'TS/SCI with Polygraph clearance']",129821.82,129821.82,"Chantilly, VA, US",SAIC
+Data Scientist,Not specified,"['data analysis', 'business principles', 'data center programs']",175032.2,175032.2,"Menlo Park, CA","Meta Platforms, Inc. "
+Data Scientist,Senior,"['Data Science', 'Manufacturing', 'Shop floor operations', 'Production planning', 'MES', 'SCADA', 'ERP', 'OPC-UA', 'MQTT', 'Modbus', 'Industrial protocols']",203265.47,203265.47,Remote (USA),"Judge Group, Inc."
+Data Scientist,Mid-level,"['data science techniques', 'data-driven tools', 'analytic processes', 'strategic risk analysis', 'expert judgment', 'methodologies']",162132.8,162132.8,,Booz Allen Hamilton
+Data Scientist,Not specified,"['Data Science', 'Systems Integration']",183942.12,183942.12,"McLean, VA, US",SAIC
+Data Scientist,Experienced,"['statistical modeling', 'machine learning', 'optimization techniques', 'analytical solutions', 'forecasting']",193734.31,193734.31,"Orlando, FL",Kforce Technology Staffing
+Data Scientist,Mid-level,"['Data Science', 'Model Monitoring', 'Data Analysis', 'AI/ML', 'Visualization', 'Dashboard Development', 'Insurance Domain Knowledge']",141484.48,141484.48,"San Antonio, TX",Kforce Technology Staffing
+Data Scientist,Not specified,"['Big Data', 'Cloud Solutions', 'Data Management', 'Data Manipulation', 'Data Storage', 'Data Parsing', 'Agile Framework']",89780.38,89780.38,"Springfield, VA","Electronic Consulting Services, Inc "
+Data Scientist,,"['statistical data collection', 'data organization', 'data interpretation', 'statistical summarization', 'product design and development']",161566.94,161566.94,"Menlo Park, CA","Meta Platforms, Inc. "
+Data Scientist,Not specified,"['large and complex data sets', 'analytical approaches', 'statistical approaches']",172830.1,172830.1,"Menlo Park, CA","Meta Platforms, Inc. "
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",121199.65,121199.65,,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",120841.41,120841.41,,Booz Allen Hamilton
+Data Scientist,Not specified,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",157200.86,157200.86,Not specified,Booz Allen Hamilton
+Data Scientist,Not specified,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",166703.73,166703.73,Not specified,Booz Allen Hamilton
+Data Scientist,Not specified,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",168076.9,168076.9,Not specified,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",131775.2,131775.2,,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",157187.36,157187.36,,Booz Allen Hamilton
+Data Scientist,Not specified,"['IoT', 'machine learning', 'artificial intelligence', 'AI', 'data analysis', 'structured data', 'unstructured data']",128859.82,128859.82,Not specified,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",119380.84,119380.84,,Booz Allen Hamilton
+Data Scientist,Not specified,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",140764.98,140764.98,Not specified,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",148077.19,148077.19,,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",117651.91,117651.91,,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",117207.65,117207.65,,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data', 'unstructured data']",156281.25,156281.25,,Booz Allen Hamilton
+Data Scientist,Not specified,"['data science', 'machine learning', 'semantic technologies', 'structured data systems', 'unstructured data systems']",225986.58,225986.58,Not specified,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",136848.75,136848.75,,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",149837.69,149837.69,,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",156124.1,156124.1,,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data', 'unstructured data']",125922.58,125922.58,,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",137802.69,137802.69,,Booz Allen Hamilton
+Data Scientist,Experienced,"['Data Science', 'Technical Engineering']",191863.84,191863.84,"Honolulu, HI, US",SAIC
+Data Scientist,Not specified,"['analytics', 'data science', 'IoT', 'machine learning', 'artificial intelligence', 'AI']",205425.1,205425.1,Not specified,Booz Allen Hamilton
+Data Scientist,Not specified,"['analytics', 'data science', 'IoT', 'machine learning', 'artificial intelligence', 'AI']",121756.43,121756.43,Not specified,Booz Allen Hamilton
+Data Scientist,Mid-level,"['Data Analysis', 'Predictive Modeling', 'Data Visualization', 'Formulation Science', 'Cross-functional Collaboration']",166522.6,166522.6,"Berkeley Heights, NJ","Judge Group, Inc."
+Not specified,Not specified,[],135183.73,135183.73,Not specified,Redhorse Corporation
+Data Scientist,Senior,"['Advanced analytical techniques', 'Business analysis', 'Technical knowledge', 'Cross-functional collaboration', 'Business strategy', 'Large scale problem solving']",221524.73,221524.73,"San Antonio, TX",Kforce Technology Staffing
+Data Scientist,Mid-level,"['machine learning', 'statistical analysis', 'data-driven problem solving', 'building machine learning models', 'deploying machine learning models', 'optimizing machine learning models', 'working with large datasets', 'data communication']",116798.91,116798.91,,Siro Clinpharm Pvt Ltd
+Data Scientist,Mid-level,"['AI/ML', 'Machine Learning', 'Python', 'GenAI', 'Data Engineering', 'Analytics', 'Data Platforms']",92407.71,92407.71,"Calgary, AB",Galent
+Data Scientist,Not specified,"['predictive modeling', 'data preparation', 'feature engineering', 'model selection', 'model evaluation', 'data engineering', 'Azure', 'Databricks']",107222.52,107222.52,Not specified,Stefanini
+Data Scientist,Not specified,[],128672.67,128672.67,"Irving, TX",Mastech Digital
+"Data Scientist (AI/ML, GenAI)",Mid-level to Senior,"['AI/ML', 'Generative AI', 'RAG', 'Document Processing', 'Large-scale Data Processing', 'Model Development', 'Cloud Environment', 'Production Deployment']",110922.04,110922.04,"San Francisco, CA",Brilliant Infotech Inc.
+Data Scientist,Mid-level,"['SQL', 'Python']",100899.59,100899.59,Remote,FlairTech Solutions
+Data Scientist,Advanced,"['Python', 'R', 'SQL', 'Machine Learning', 'scikit-learn', 'XGBoost', 'Tableau', 'Looker', 'Power BI', 'Salesforce', 'HubSpot', 'CRM systems', 'Data analysis', 'Data modeling']",83812.07,83812.07,,Enterprise Minds
+Data Scientist,Not specified,[],104409.51,104409.51,"Mclean, VA","Pyramid Consulting, Inc."
+Data Scientist,Senior,"['84.51', 'large-scale transaction data management', 'shopper-level datasets', 'Retail sector experience', 'CPG sector experience', 'cloud-based analytics', 'data manipulation', 'loyalty data analysis', 'basket data analysis', 'stakeholder communication']",96816.59,96816.59,,SESHENG LLC
+Data Scientist,Mid-level,"['statistical modeling', 'forecasting', 'machine learning', 'mathematical optimization', 'decision analysis', 'analytical modeling']",122864.89,122864.89,"Orlando, FL",INSPYR Solutions
+Data Scientist,Mid-level,"['Statistics', 'Machine Learning', 'NLP', 'Natural Language Processing', 'Digital Marketing Data', 'Data Analysis', 'Consumer Insights']",161822.0,161822.0,"Cupertino, California",PTR Global
+Data Scientist,Mid to Senior,"['LLM', 'NLP', 'Python', 'R', 'Data Analysis', 'Pandas', 'NumPy', 'Scikit-Learn', 'Machine Learning', 'Predictive Analytics', 'Data Manipulation', 'Data Modeling']",98505.12,98505.12,"Washington, DC",Spar Information Systems
+Data Scientist,Mid-level,"['Data Science', 'Scientific Principles', 'Research', 'Analytics Tools', 'Data Pipelines', 'Business Analytics', 'Customer Acquisition Analysis', 'Operational Efficiency']",123180.84,123180.84,"Saint Paul, MN",Cynet Systems
+Senior Data Scientist,Senior,"['data processing', 'data analysis', 'large datasets', 'analytic processes', 'scripting', 'data modeling']",127983.05,127983.05,,Valueprosite
+Data Scientist,Senior,"['Data Analysis', 'Data Science', 'ETL Pipelines', 'Dashboard Development', 'Data Structures', 'Web Application Development', 'Data Validation', 'Mentoring', 'Stakeholder Collaboration', 'Prototyping']",79631.71,79631.71,,SOIMEXCS
+Senior AI Data Scientist,Senior,"['LLMs', 'GenAI', 'Python', 'Data Analysis', 'SQL', 'Large-scale Data Manipulation', 'Advanced Analytics', 'BI Tools', 'Model Evaluation', 'Experimentation', 'Analytical Thinking', 'Critical Thinking']",109627.88,109627.88,"Charlotte, NC",Collabera LLC
+Data Scientist,Entry-Level,"['Data collection', 'Data cleaning', 'Data analysis', 'Machine learning', 'Predictive modeling', 'Statistical methods', 'Data mining', 'Data visualization', 'Dashboard creation', 'Reporting', 'Cross-functional collaboration']",88851.78,88851.78,Remote,Futuremindz llc
+Data Scientist,Senior,"['Data Science', 'Statistics', 'Computer Science', 'Economics', 'Engineering', 'Talent Analytics', 'People Analytics', 'Enterprise Consulting', 'End-to-end Analytics']",145535.31,145535.31,"['Renton', 'St Louis', 'Dallas, TX 75261', 'Plano, TX 75024']",ConfigUSA
+Data Scientist,mid-level,"['retail consumer analytics', 'packed goods retail shopping analytics', 'Kroger Collaborative Cloud data']",104245.74,104245.74,"Ridgefield Park, NJ",Apar Technologies
+Data Scientist,Mid-level,"['Machine Learning', 'Data Segmentation', 'Statistical Inference', 'Large Data Sets Analysis', 'Business Analytics', 'Data Modeling']",134764.75,134764.75,"Columbus, Ohio",Apex Systems
+Data Scientist,Mid-Level,"['Python', 'R', 'Data Science', 'Machine Learning', 'Advanced Analytics', 'Large Dataset Analysis', 'Business Communication']",133333.61,133333.61,"Richmond, VA",Sriven Systems Inc.
+Not specified,Not specified,"['big data solutions', 'data analysis']",124487.7,124487.7,United States,Adtech
+Data Scientist,Mid-level,"['Predictive Modeling', 'Machine Learning', 'Data Processing', 'Data Cleansing', 'Data Transformation', 'Feature Engineering', 'Documentation', 'Data Pipelines']",111974.68,111974.68,"Holtsville, NY",Mindlance
+Data Scientist,Not specified,[],177699.06,177699.06,"Newark, NJ",Talentrupt
+Data Scientist,,"['data sources identification', 'data pipeline design', 'data quality management', 'data storage solutions', 'data analysis', 'data lakes', 'data warehouses', 'databases']",125058.15,125058.15,"Cincinnati, OH","Belcan, LLC"
+Data Scientist,Mid to Senior level,"['Machine Learning', 'Forecasting', 'Predictive Modeling', 'Data Preparation', 'Business Analytics', 'Communication Skills']",125826.18,125826.18,"Atlanta, Georgia",Robert Half
+Decision Science,,"['statistics', 'operations research', 'econometrics', 'machine learning', 'mathematical models', 'data science']",185040.55,185040.55,,Connvertex Technologies Inc.
+Data Scientist,Mid-level,"['AI', 'Machine Learning', 'Data Mining', 'Production-grade AI deployment']",129705.73,129705.73,"Newark, NJ",JSR Tech Consulting
+Data Scientist,Not specified,"['AI/ML', 'Machine Learning', 'Artificial Intelligence', 'Data Science', 'Consulting', 'Model Building', 'Technical Support', 'Troubleshooting']",142543.03,142543.03,"San Francisco, CA",Stefanini
+Data Scientist,Senior,"['Machine Learning', 'Operations Research', 'Statistics', 'Data Mining', 'Microsoft Azure', 'Python', 'R', 'Advanced Analytics', 'Business Engagement', 'Technical Communication']",105931.62,105931.62,,Reveille Technologies
+Machine Learning Engineer - Demand Planning & Dynamic Pricing,Mid to Senior Level,"['Forecasting algorithms', 'A/B testing', 'Time series analysis', 'Linear regression', 'Python', 'Machine Learning', 'Google Cloud Platform', 'BigQuery', 'Vertex.AI', 'Demand planning', 'Dynamic pricing', 'Communication skills']",136952.14,136952.14,"Atlanta, GA/Canada",Factspan Inc
+SR. DATA SCIENTIST,Senior,"['marketing analytics', 'e-commerce data science', 'data science']",125794.87,125794.87,,Aroha Technologies
+Data Scientist Senior,Senior,"['Computer Science', 'Data Science', 'Artificial Intelligence', 'Statistics', 'Machine Learning', 'Deep Learning', 'Programming', 'Google Cloud Professional Machine Learning']",90999.01,90999.01,"Holtsville, New York","V-Soft Consulting Group, Inc."
+Senior Data Scientist,Senior,"['AI/ML', 'Large Language Models (LLMs)', 'Deep Learning', 'NLP', 'Data Pipelines', 'Fine-tuning', 'Instruction-tuning', 'Domain Adaptation', 'Prompt Engineering', 'Multilingual NLP', 'Model Evaluation', 'Safety and Guardrails']",236429.3,236429.3,"Ridgefield, CT","Reputation Institute, Inc."
+Data Scientist II,Mid-level,"['data science', 'technology platform', 'health insurance analytics']",129798.66,129798.66,,Oscar Health
+Instructional Developer,Mid-level,"['Instructional design', 'Training material development', 'Horizon3.ai Node Zero platform', 'Autonomous pen testing', 'Training dataset creation', 'Curriculum development']",80718.12,80718.12,"Fort Meade, MD",Govcio LLC
+"Data Scientist, Product",Mid-level,"['statistical data collection', 'data organization', 'data interpretation', 'statistical summarization', 'product design', 'product development']",192645.1,192645.1,"Menlo Park, CA (Remote - anywhere in the U.S.)","Meta Platforms, Inc. "
+Senior Data,Senior,[],169780.08,169780.08,,Redhorse Corporation
+Senior Data Scientist,Senior,"['Machine Learning', 'NLP', 'Natural Language Processing', 'CV', 'Computer Vision', 'Time Series', 'MLE', 'MLOps', 'Machine Learning Engineering', 'Recommendation Systems', 'AI']",98517.52,98517.52,,EPAM Systems
+Lead Data Scientist,Lead,"['Machine Learning', 'NLP', 'Natural Language Processing', 'Computer Vision', 'CV', 'Time Series', 'MLE', 'MLOps', 'Machine Learning Engineering', 'Recommendation Systems']",99406.17,99406.17,EPAM office (3 days per week on-site),EPAM Systems
+Senior Data Scientist,Senior,"['Data Science', 'Machine Learning', 'Technical Leadership', 'Mentorship']",163802.6,163802.6,"Philadelphia, PA",Brooksource
+Staff Data Scientist,Staff,"['Data Science', 'AI', 'Predictive Analytics', 'Technical Leadership', 'Analytics']",182995.55,182995.55,"Beachwood, OH",Penske Truck Leasing
+Data Scientist,IV,"['AI/ML models', 'Model deployment', 'Production support', 'Troubleshooting', 'Model pipeline management', 'Testing and validation', 'Model lifecycle management', 'Model industrialization']",128145.97,128145.97,"Irving, TX","Judge Group, Inc."
+Data Scientist,Senior,"['exploratory data analysis', 'statistics', 'data analysis', 'quantitative analysis']",146277.94,146277.94,,FedEx Office
+Senior Data Scientist,Senior,"['predictive modeling', 'clinical decision support', 'data analytics', 'data extraction', 'data analysis', 'data manipulation', 'data synthesis', 'data validation', 'healthcare data']",159899.8,159899.8,,Parkland Center for Clinical Innovation
+Data Scientist/Engineer,Mid-level,"['Data Science', 'Data Engineering', 'Designing data solutions', 'Building data solutions', 'Maintaining data solutions']",185395.05,185395.05,Remote,"Cayuse Holdings, LLC"
+Data Scientist,Lead,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",189764.06,189764.06,,Booz Allen Hamilton
+Data Scientist,IV,"['data science', 'machine learning', 'statistical modeling']",191346.17,191346.17,"Irving, TX","Judge Group, Inc."
+Senior Data Scientist,Senior,"['AI', 'Machine Learning', 'Databricks Lakehouse Platform', 'Data Science', 'Scalable Solutions', 'Cross-functional Collaboration']",240440.58,240440.58,"Spring, TX",Kforce Technology Staffing
+Data Scientist,Senior,"['IoT', 'machine learning', 'artificial intelligence', 'Palantir Foundry', 'data analysis']",195459.66,195459.66,,Booz Allen Hamilton
+"Data Scientist, Product",Not specified,"['statistical data collection', 'data organization', 'data interpretation', 'statistical summarization', 'product design', 'product development']",166876.31,166876.31,"Menlo Park, CA","Meta Platforms, Inc. "
+"Data Scientist, Analytics",Mid-level,"['data analysis', 'statistical analysis', 'large data sets', 'complex data analysis']",218899.62,218899.62,"New York, NY","Meta Platforms, Inc. "
+Unknown,Unknown,[],171758.78,171758.78,Unknown,Penn Medicine
+Data Scientist,Mid,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",133060.25,133060.25,,Booz Allen Hamilton
+Data Scientist,Mid,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",259778.5,259778.5,,Booz Allen Hamilton
+Data Scientist,Senior,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",148811.22,148811.22,,Booz Allen Hamilton
+Applied Data Scientist,Mid-level,"['machine learning', 'AI', 'algorithm development', 'structured data analysis', 'unstructured data analysis', 'intelligent systems development', 'model deployment']",219737.73,219737.73,,Booz Allen Hamilton
+Data Scientist,Senior,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",140051.0,140051.0,,Booz Allen Hamilton
+Data Scientist,Mid,"['IoT', 'machine learning', 'artificial intelligence', 'data analysis', 'structured data', 'unstructured data']",106639.12,106639.12,,Booz Allen Hamilton
+Data Scientist,Mid,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",134402.17,134402.17,,Booz Allen Hamilton
+Data Scientist,Senior,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",201032.47,201032.47,,Booz Allen Hamilton
+Data Scientist,Senior,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",201719.61,201719.61,,Booz Allen Hamilton
+Data Scientist,Senior,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",231332.67,231332.67,,Booz Allen Hamilton
+Data Scientist,Mid,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",145493.97,145493.97,,Booz Allen Hamilton
+Data Scientist,Senior,"['IoT', 'machine learning', 'artificial intelligence', 'structured data', 'unstructured data', 'data analysis']",231525.8,231525.8,,Booz Allen Hamilton
+Data Scientist,Senior,"['IoT', 'machine learning', 'artificial intelligence', 'data analysis', 'structured data', 'unstructured data']",204448.08,204448.08,,Booz Allen Hamilton
+Data Scientist,Senior,"['IoT', 'machine learning', 'artificial intelligence', 'structured data', 'unstructured data', 'data analysis']",177421.86,177421.86,,Booz Allen Hamilton
+Data Scientist,Senior,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",175133.39,175133.39,,Booz Allen Hamilton
+Data Scientist,Senior,"['IoT', 'machine learning', 'artificial intelligence', 'data analysis', 'structured data', 'unstructured data']",192297.25,192297.25,,Booz Allen Hamilton
+Data Scientist IV,Senior,"['Data Science', 'Decision Science', 'Product Management', 'Process Management', 'Business Analytics', 'Data Products']",144059.84,144059.84,"Basking Ridge, NJ (Hybrid)","Judge Group, Inc."
+Data Scientist,Mid,"['IoT', 'machine learning', 'artificial intelligence', 'data organization', 'Palantir Foundry', 'end-to-end solutions']",128045.06,128045.06,,Booz Allen Hamilton
+Data Scientist,Mid,"['IoT', 'machine learning', 'artificial intelligence', 'data organization', 'Palantir Foundry', 'end-to-end solutions', 'problem-solving']",144743.17,144743.17,,Booz Allen Hamilton
+Senior Data Scientist,Senior,"['data science', 'data analysis', 'actionable insights']",132048.06,132048.06,"['Joint Base Lewis-McChord, WA', 'Sneads Ferry, NC', 'Fayetteville, NC', 'Northern VA']","Electronic Consulting Services, Inc "
+Unknown,Unknown,[],102895.73,102895.73,Unknown,"Knowledge Management, Inc"
+Data Scientist Lead,Lead,"['AI/ML strategy', 'predictive analytics', 'intelligent automation', 'machine learning models', 'AI-driven monitoring solutions', 'data science frameworks', 'database management', 'cloud ecosystem']",189843.16,189843.16,"Maryland Heights, MO",Kforce Technology Staffing
+Data Scientist,Mid,"['data analysis', 'machine learning', 'artificial intelligence', 'structured data', 'unstructured data']",120406.45,120406.45,,Booz Allen Hamilton
+Data Analyst/Scientist,Mid-level,"['Data Analysis', 'Data Science', 'SharePoint', 'Microsoft Teams', 'Flank Speed']",154591.83,154591.83,"Dahlgren, VA, US",SAIC
+Data Scientist,,[],146369.34,146369.34,"Springfield, VA, US",SAIC
+Data Scientist,Mid,"['data analysis', 'IoT', 'machine learning', 'artificial intelligence', 'structured data', 'unstructured data']",153423.02,153423.02,,Booz Allen Hamilton
+Data Scientist,Senior,"['analytics', 'machine learning', 'artificial intelligence', 'IoT', 'data science', 'consulting']",181315.36,181315.36,,Booz Allen Hamilton
+Data Scientist,Mid,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",152565.67,152565.67,,Booz Allen Hamilton
+AI Utilization Specialist,Mid-Senior level,"['Artificial Intelligence', 'Data Science', 'Top Secret Clearance']",140092.42,140092.42,"Arlington, VA, US",SAIC
+Technical Process Manager - Decision Scientist cum Consultant/ Data Scientist IV,Senior,"['Decision Science', 'Data Science', 'Product Management', 'Process Management', 'Business Analytics', 'Data Products']",143708.02,143708.02,"Basking Ridge, NJ","Judge Group, Inc."
+Data Scientist,Not specified,[],162911.02,162911.02,Not specified,SpaceX
+Data Science/AI Specialist,Mid to Senior,"['Python', 'SQL', 'Machine Learning', 'Feature Engineering', 'Model Training', 'Model Evaluation', 'Cloud Computing', 'Data Pipelines', 'Model Deployment', 'Agile']",150022.7,150022.7,"Charlotte, NC",Eliassen Group
+AI Data Scientist,Mid to Senior,"['AI', 'Data Science', 'Strategic operational design', 'Capability development', 'Critical thinking', 'Creative thinking', 'National security', 'Mission analysis', 'Operational environment analysis', 'Framework development']",146507.05,146507.05,,Booz Allen Hamilton
+Data Engineer Advisor,Senior/Advisor,"['Data Engineering', 'IT', 'Software Engineering', 'Data Science Collaboration', 'Technical Standards', 'Business Analysis', 'Cross-functional Communication']",124019.88,124019.88,,FedEx Office
+,,[],113928.77,113928.77,,U.S. Bank
+Data Scientist,Senior/Lead,"['Enterprise Analytics', 'Statistical Modeling', 'Artificial Intelligence', 'Descriptive Modeling', 'Diagnostic Modeling', 'Predictive Modeling', 'Prescriptive Modeling', 'Ensemble Modeling', 'Advanced Statistical Techniques', 'Database Tools', 'Leadership']",147085.5,147085.5,,FedEx Office
+Senior Data Scientist,Senior,"['Data Science', 'Analytics', 'Fraud Prevention', 'Credit', 'Insurance', 'Marketing']",102425.3,102425.3,,Trans Union LLC
+Data Analyst,Mid-level,"['data mining', 'text mining', 'statistical analysis', 'structured data analysis', 'unstructured data analysis', 'data visualization', 'communication skills', 'business intelligence']",125116.84,125116.84,,FedEx Office
+Manager of Data and AI Engineering,Manager,"['Data Engineering', 'AI Engineering', 'MLOps', 'Data Pipelines', 'Leadership', 'Mentoring', 'Strategic Planning', 'Enterprise Solutions']",169635.55,169635.55,,FedEx Office
+Data Science & Analytics,Not specified,[],129327.28,129327.28,Not specified,Trans Union LLC
+Senior Data Scientist,Senior,"['Data Science', 'Customer Analytics', 'Product Analytics', 'Channel Analytics', 'Digital Data Analysis', 'Consumer Experience Optimization', 'Customer Value Delivery', 'Consultative Approach']",163890.88,163890.88,"Columbus, OH",Genesis10
+Software Engineer/Developer,Entry Level,"['Computer Science', 'Tech Skills']",159920.55,159920.55,Not specified,SynergisticIT
+Lead Data Scientist,Lead,"['Artificial Intelligence', 'Data Science', 'Data Engineering', 'LLM/GenAI', 'LLMOps']",191110.0,191110.0,,Blackstraw LLC
+Data Scientist AI,Senior,"['Data Science', 'Artificial Intelligence', 'Python', 'Machine Learning', 'Pandas', 'NumPy', 'SciPy', 'Scikit-learn']",107116.54,107116.54,"Charlotte, NC or Pittsburgh, PA",FutureTech Consultants LLC
+Senior Data Scientist ML & Operational Analytics,Senior,"['Machine Learning', 'Data Science', 'Operational Analytics', 'Model Deployment', 'Production ML']",145445.69,145445.69,"701 9th Street. Northwest Washington, DC 200608",Aroha Technologies
+Staff Data Scientist,Staff,"['ML/AI Engineering', 'Data Science', 'Agentic AI', 'Large Language Models (LLMs)', 'Retrieval Augmented Generation', 'AI Agents', 'Multi-agent Workflows', 'Agentic Platforms']",178122.05,178122.05,Spring TX - Hybrid,Nava Software Solutions
+Data Scientist,Senior,"['advanced statistical analysis', 'data analysis', 'player insights', 'game performance analytics']",245550.22,245550.22,"Los Angeles, CA",INSPYR Solutions
+Data Scientist - Cybersecurity Insider Risk & Advanced Analytics,Mid to Senior,"['Data Science', 'Analytics', 'Risk Modeling', 'Quantitative Modeling', 'Cybersecurity', 'Insider Risk', 'Data Lakehouse', 'Data Warehouse', 'Risk Scoring']",181974.84,181974.84,,SANS
+Data Scientist,Senior or Staff,"['AI/ML', 'Data Science', 'applied AI', 'generative AI', 'agentic AI', 'production deployment', 'technical leadership', 'mentoring']",136100.23,136100.23,,Vaco by Highspring
+Sr. Data Scientist,Senior,"['statistics', 'machine learning', 'generative AI', 'visualization', 'economic analysis', 'big data processing']",120605.85,120605.85,Remote,Unisys
+Lead Data Scientist,Lead/Principal,"['Data Science', 'Forecasting Models', 'Machine Learning', 'Load Forecasting', 'Solar Generation Forecasting', 'Wind Generation Forecasting', 'Production Deployment', 'Energy Management', 'Model Engineering']",91698.29,91698.29,"Juno Beach, Florida",Apex Systems
+Lead Data Scientist (Agentic AI & Web Services),Lead,"['Agentic AI', 'Web Services', 'AI Agents', 'FastAPI', 'Azure AI Foundry', 'LangGraph', 'Semantic Kernel', 'Stateful Systems', 'Real-time Interaction', 'Agent Orchestration']",139898.42,139898.42,Remote,Fynbosys Inc
+Data Scientist,Associate Level,"['Data Science', 'Coding', 'Analytical methodologies', 'Analytics']",87601.73,87601.73,"McLean, VA",Apex Systems
+Data Scientist,Senior,"['RAG AI', 'LLM', 'Databricks', 'Snowflake', 'Python', 'TensorFlow', 'PyTorch', 'Spark', 'Data Analysis', 'Data Modeling', 'Machine Learning', 'Artificial Intelligence', 'Large Language Models', 'Foundation Models', 'Fine-tuning']",172598.34,172598.34,,"EITAcies, Inc."
+Gen AI Data Scientist,Not specified,"['Gen AI', 'Data Science']",123034.8,123034.8,"Charlotte, NC (Hybrid)","Motion Recruitment Partners, LLC"
+Senior Data Scientist,Senior,"['Data Science', 'KPI Development', 'Analytics Systems', 'Market Analysis', 'Media Domain', 'Marketing Analytics', 'Measurement Frameworks']",159253.48,159253.48,Remote (PST time zone),Unikon IT
+Data Scientist,Mid to Senior,"['Talent Analytics', 'People Analytics', 'Predictive Modeling', 'Prescriptive Modeling', 'Machine Learning', 'HR Data Analysis', 'Production-ready ML Solutions', 'Large-scale Data Processing', 'Cross-functional Collaboration']",210341.33,210341.33,"Renton, WA 98059",Cystems Logic
+Data Scientist II,Senior,"['SQL', 'Python', 'Machine Learning', 'AI solution design', 'ML techniques']",110946.69,110946.69,"South San Francisco, CA",Estuate Inc.
+Data Scientist II,Senior,"['SQL', 'Python', 'Machine Learning', 'AI solution design']",122291.27,122291.27,Hybrid,Advanced Software Talent
+Data Scientist,Senior,"['Machine Learning', 'Data Analysis', 'Business Intelligence', 'Data Insights']",132742.25,132742.25,"Tampa, FL",ARK Infotech Spectrum
+Data Scientist - AI Specialist,Senior,"['Databricks AI tools', 'Snowflake AI tools', 'Agentic AI', 'AI-driven solutions', 'Data pipelines', 'Communication skills']",109469.28,109469.28,DMV area,SES
+Sr. Data Scientist,Senior,"['Data Science', 'MMM (Marketing Mix Modeling)', 'Marketing Measurement', 'Media Measurement', 'Media & Entertainment Industry Experience']",148854.8,148854.8,"New York City, NY",SWI
+Principal Data Scientist - Load & Renewable Generation Forecasting,Principal,"['Python', 'pandas', 'numpy', 'scikit-learn', 'statsmodels', 'Time-Series Forecasting', 'ARIMA', 'SARIMAX', 'gradient boosting', 'Production Deployment']",161024.4,161024.4,"Juni Beach, FL",Globex IT Solutions INC
+AI Data Scientist,Not specified,[],90772.44,90772.44,Not specified,"Unissant, Inc."
+Data Scientist,Junior,"['predictive modeling', 'data preparation', 'feature engineering', 'model deployment', 'data engineering coordination']",144860.95,144860.95,"Austin or Temple, TX",Apex Systems
+Lead Data Scientist - Customer Experience Improvement,Lead,"['data science', 'advanced analytics', 'AI', 'decision intelligence', 'customer experience strategy']",114102.3,114102.3,"SoHo, NYC (Hybrid)",Apex Systems
+Lead Data Scientist,Lead,"['machine learning', 'AI development', 'data science', 'ML systems', 'model development', 'model deployment', 'performance monitoring']",165980.36,165980.36,"Bethesda, MD",Dexian DISYS
+AI Data Scientist,Mid-level,"['Data Science', 'Machine Learning', 'AI', 'Data Analysis', 'Predictive Modeling', 'Statistical Analysis', 'Structured Data Analysis', 'Unstructured Data Analysis']",103585.73,103585.73,,Rose IT Corp.
+Senior Data Scientist,Senior,"['statistical modeling', 'machine learning', 'probabilistic theory', 'game theory', 'dynamic systems', 'data analysis']",155331.48,155331.48,,Tandym Tech
+Senior Data Scientist,Senior,"['Machine Learning', 'Artificial Intelligence', 'Statistical Analysis', 'Natural Language Processing', 'NLP', 'Generative AI', 'LLM', 'Large Language Models', 'Analytical Projects', 'Business Understanding']",210229.03,210229.03,"Tampa, FL","iTech US, Inc."
+Senior Data Scientist,Senior,"['Data exploration', 'Feature engineering', 'Statistical modeling', 'Predictive analytics', 'Model operationalization', 'Python', 'R', 'NumPy', 'Pandas', 'Scikit-learn', 'PyTorch', 'TensorFlow']",137345.84,137345.84,"Atlanta, GA","Rayomind Software Solutions LLC, DBA, Hire'in Solutions"
+Senior Data Scientist,Senior,"['machine learning', 'statistics', 'software development', 'data science', 'presentation skills', 'business analysis']",132936.58,132936.58,"Houston, TX",TECHNEPTUNE CONSULTING INC
+Data Scientist III,Senior,"['exploratory data analysis', 'ordinal data analysis', 'continuous data analysis', 'longitudinal sentiment data modeling', 'multi-item constructs', 'latent growth models', 'hierarchical models', 'survey methodology', 'longitudinal study design']",204326.25,204326.25,"Los Angeles, CA",AgreeYa Solutions
+Senior Data Scientist,Senior (Level II),"['AI/ML', 'targeting models', 'model development', 'production-ready solutions', 'cross-functional collaboration']",140965.28,140965.28,,DGN Technologies
+Imaging Data Scientist,mid-level,"['computer vision', 'AI', 'applied AI', 'plant cell biology', 'data science', 'imaging analytics', 'pipeline development', 'biotechnology']",100488.39,100488.39,"Johnston, IA 50131",Kellton
+AI/Data Scientist,mid-level,"['AI', 'Data Science', 'Machine Learning', 'Analytics', 'Model Development', 'Stakeholder Management']",155453.3,155453.3,Remote,System One
+Scientist/Analyst - Microsoft Purview,Mid-level,['Microsoft Purview'],86093.62,86093.62,Remote,Apex Systems
+Imaging Data Scientist,Mid to Senior,"['Computer Vision', 'AI/Machine Learning', 'Plant Cell Biology', 'Microscopy', 'Image Processing', 'Pipeline Development', 'Production Systems']",106615.83,106615.83,"Johnston, Iowa (Partial Remote)",Apex Systems
+Machine Learning Engineer/Data Scientist,Mid to Senior,"['Predictive Modeling', 'Machine Learning', 'Data Processing', 'Data Cleansing', 'Data Transformation', 'Feature Engineering', 'Documentation', 'Data Pipelines', 'Model Validation', 'Data Presentation']",195438.03,195438.03,Not specified,Aditi Consulting
+Lead Security Architect Google Cloud Platform,Lead,"['Google Cloud Platform', 'Security Architecture', 'Cloud Security', 'Security Standards', 'Compliance', 'Architectural Frameworks']",135864.34,135864.34,"Onsite (Juno Beach, FL)",Whiz Global LLC
+Quantitative Analyst,Mid-level,"['statistical analysis', 'data visualization', 'statistical methods', 'data management', 'large dataset management', 'data ingestion', 'documentation']",100986.42,100986.42,"San Diego, CA",Genesis10
+Technology Specialist,Senior,"['Computer Science', 'Engineering', 'Data Science', 'AI/ML Engineering', 'Python', 'TensorFlow', 'PyTorch', 'scikit-learn', 'Azure', 'Cloud platforms', 'ML model development', 'Technical team leadership']",111619.75,111619.75,"Richardson, TX 75081",Qualis1 Inc.
+Data Scientist,,"['Programming', 'Statistics', 'Machine Learning', 'Math', 'Data Wrangling']",69134.71,69134.71,,Everest Technologies
+Data Scientist Associate,Associate,"['SAS', 'Python', 'React', 'statistical analysis', 'quantitative analysis', 'data analysis', 'automation', 'dashboard creation']",114912.48,114912.48,"McLean, VA",Genesis10
+Data Scientist,Mid-level,"['analytical modeling', 'pricing', 'segmentation', 'underwriting strategy', 'actuarial analysis']",124205.23,124205.23,,The Hartford
+Data Scientist,Mid-level,"['analytical skills', 'modeling', 'pricing', 'segmentation', 'underwriting strategy', 'actuarial knowledge']",136892.61,136892.61,,The Hartford
+Data Scientist,Mid-level,"['analytical modeling', 'pricing', 'segmentation', 'underwriting strategy', 'actuarial modeling']",178916.94,178916.94,,The Hartford
+Data Scientist,Mid-level,"['analytical modeling', 'pricing', 'segmentation', 'underwriting strategy', 'actuarial modeling']",119429.23,119429.23,,The Hartford
+Data Scientist,Mid-level,"['AI solutions development', 'Data science', 'Business acumen', 'Data ingestion scripting', 'Data pipeline development', 'Data processing', 'Machine learning']",146128.33,146128.33,"Armonk, NY and various unanticipated client sites throughout the US (Up to 100% telecommuting permitted)",IBM
+Not specified,Not specified,[],112364.92,112364.92,Not specified,Emory Healthcare/Emory University
+Data Scientist,Mid-level,"['Machine Learning', 'AI', 'Optimization Models', 'Data Analysis', 'Large Dataset Analysis', 'Analytics', 'Data-driven Decision Making']",121085.05,121085.05,,Insight Global
+Data Scientist,Mid-level,"['Data Science', 'Analytical Methodologies', 'Large Dataset Analysis', 'Algorithm Development', 'Code Documentation', 'Business Intelligence', 'Problem Solving']",156370.86,156370.86,,Home Depot
+Data Scientist,Mid-level,"['Machine Learning', 'Statistical Modeling', 'Data Preparation', 'Python', 'Data Analysis']",124458.27,124458.27,,Insight Global
+Data Scientist,Mid-level,"['Data Science', 'o9 planning platform', 'Demand forecasting', 'Enterprise planning', 'Data & Analytics']",157352.64,157352.64,Remote,Insight Global
+Data Scientist,Mid-level to Senior,"['analytical skills', 'statistical analysis', 'programming', 'data cleaning', 'data aggregation', 'large data set analysis', 'client-facing communication', 'data interpretation']",175371.73,175371.73,U.S.,Deluxe
+Data Scientist,Mid to Senior,"['Data Analysis', 'Statistical Analysis', 'Programming', 'Data Cleaning', 'Data Aggregation', 'Client Management', 'Large Data Sets']",176307.62,176307.62,United States,Deluxe
+Data Scientist,experienced,"['machine learning', 'predictive modeling', 'data analysis', 'experimentation']",78148.12,78148.12,,Waystar
+Data Scientist,Not specified,"['MLOps', 'Analytics', 'Top Secret/SCI Clearance']",107467.5,107467.5,"Huntsville, AL, USA",SOS International LLC
+Data Scientist,Not specified,[],142413.67,142413.67,Remote,CAI
+Data Scientist,Not specified,[],146642.64,146642.64,Remote,CAI
+Data Scientist,Not specified,[],125065.07,125065.07,Remote,CAI
+Data Scientist,Not specified,[],142207.11,142207.11,Remote,CAI
+Data Scientist,Not specified,[],122986.46,122986.46,Remote,CAI
+Data Scientist,Not specified,[],190347.88,190347.88,Remote,CAI
+Data Scientist,Not specified,[],149212.11,149212.11,Remote,CAI
+Data Scientist,Not specified,[],141661.08,141661.08,Remote,CAI
+Data Scientist,Not specified,[],155462.94,155462.94,Remote,CAI
+Data Scientist,Not specified,[],124713.71,124713.71,Remote,CAI
+Data Scientist,Not specified,[],112780.93,112780.93,Remote,CAI
+Data Scientist,Not specified,[],133566.25,133566.25,Remote,CAI
+Data Scientist,Not specified,[],134915.6,134915.6,Remote,CAI
+Data Scientist,Not specified,[],129187.98,129187.98,Remote,CAI
+Data Scientist,Not specified,[],187321.75,187321.75,Remote,CAI
+Data Scientist,Not specified,[],129095.25,129095.25,Remote,CAI
+Data Scientist,Not specified,[],159776.17,159776.17,Remote,CAI
+Data Scientist,Not specified,[],121368.64,121368.64,Remote,CAI
+Data Scientist,,[],190918.36,190918.36,Remote,CAI
+Data Scientist,Not specified,[],130333.66,130333.66,Remote,CAI
+Data Scientist,Not specified,[],156653.56,156653.56,Remote,CAI
+Data Scientist,Not specified,[],116127.4,116127.4,Remote,CAI
+Data Scientist,Not specified,[],133412.97,133412.97,Remote,CAI
+Data Scientist,Not specified,[],126064.72,126064.72,Remote,CAI
+Data Scientist,Not specified,[],122976.38,122976.38,Remote,CAI
+Data Scientist,,[],178254.77,178254.77,Remote,CAI
+Data Scientist,Not specified,[],124186.04,124186.04,Remote,CAI
+Data Scientist,Not specified,[],133199.39,133199.39,Remote,CAI
+Data Scientist,Not specified,[],120557.89,120557.89,Remote,CAI
+Data Scientist,Not specified,[],136947.58,136947.58,Remote,CAI
+Data Scientist,Not specified,[],123601.77,123601.77,Remote,CAI
+Data Scientist,Not specified,[],121141.64,121141.64,Remote,CAI
+Data Scientist,Not specified,[],170111.67,170111.67,Remote,CAI
+Data Scientist,Not specified,[],129263.91,129263.91,Remote,CAI
+Data Scientist,Not specified,[],117177.36,117177.36,Remote,CAI
+Data Scientist,Not specified,[],174221.67,174221.67,Remote,CAI
+Data Scientist,Not specified,[],156933.03,156933.03,Remote,CAI
+Data Scientist,Not specified,[],137349.38,137349.38,Remote,CAI
+Data Scientist,Not specified,[],124102.22,124102.22,Remote,CAI
+Data Scientist,Not specified,[],130619.85,130619.85,Remote,CAI
+Data Scientist,Not specified,[],131221.9,131221.9,Remote,CAI
+Data Scientist,Not specified,[],119476.96,119476.96,Remote,CAI
+Data Scientist,Not specified,[],155784.39,155784.39,Remote,CAI
+Data Scientist,Mid to Senior Level,"['Machine Learning', 'Statistical Analysis', 'Advanced Analytics', 'Data Modeling', 'Model Development', 'Model Deployment', 'Data-driven Decision Support', 'Enterprise Governance Standards']",108180.31,108180.31,,Insight Global
+Data Scientist,Not specified,[],145275.17,145275.17,"Remote, OR, USA",SOS International LLC
+Data Scientist/Analyst,Not specified,"['mathematics', 'statistics', 'semiconductor physics', 'materials science', 'information technology', 'predictive modeling', 'data analysis']",130410.24,130410.24,Not specified,"Micron Technology, Inc."
+Data Scientist,Staff,"['predictive modeling', 'AI', 'data science', 'forecasting', 'demand response optimization', 'EV charging optimization', 'home energy intelligence']",225849.55,225849.55,"Lehi, UT",ManpowerGroup
+Data Scientist,Not specified,"['AI-powered cyber models', 'training data analysis', 'feature relevance', 'representativeness', 'bias analysis', 'generalization', 'Top Secret clearance with SCI']",117790.0,117790.0,"Fort Meade, Maryland",GovCIO
+Not specified,Not specified,[],192708.11,192708.11,Not specified,Nelnet
+,,[],158722.64,158722.64,,Nelnet
+,,[],195878.95,195878.95,,Nelnet
+Unknown,Unknown,"['AI/ML', 'analytics', 'machine learning', 'AMI interval data', 'data gap-fill', 'usage reconstruction', 'forecasting']",138505.45,138505.45,Unknown,Insight Global
+Data Scientist,Mid-level to Senior,"['statistical analysis', 'data ingestion', 'data processing', 'analytics development', 'automated solutions']",122260.84,122260.84,,Leidos
+Data Scientist / Developer,Mid-level,"['Data Science', 'Analytics', 'Incentive Modeling', 'Backend Development', 'Alteryx', 'AWS', 'Web Development', 'Data Integration', 'Dashboard Development']",128505.41,128505.41,,Insight Global
+Data Scientist,Mid-level,"['Data Analysis', 'Predictive Modeling', 'Machine Learning', 'Data Preparation', 'Analytics Solutions', 'Stakeholder Management', 'Business Intelligence']",187341.4,187341.4,,The Coca-Cola Company
+Senior Data Scientist,Senior,"['SQL', 'Python', 'R', 'Tableau', 'data visualization', 'statistical analysis', 'advanced analytics']",139544.66,139544.66,,Insight Global
+Data Scientist,Not specified,"['Data analysis', 'Picarro', 'Enterprise systems', 'Power BI', 'Dashboard development', 'Leak data analysis', 'Spend data analysis', 'Regulatory reporting', 'Capital planning']",112368.88,112368.88,Not specified,Insight Global
+Data Scientist,Not specified,"['Data Science', 'Applied AI', 'Large Language Models (LLM)', 'Coding', 'Model Development', 'Production Deployment', 'Automation']",121667.05,121667.05,"Columbus, Ohio or Cleveland, Ohio",Insight Global
+Data Scientist,Mid-level,"['Machine Learning', 'Classification Models', 'Survival Models', 'Predictive Modeling', 'Medical Underwriting', 'Financial Underwriting', 'Actuarial Collaboration', 'Data Analysis']",137813.2,137813.2,,Insight Global
+,,[],178888.62,178888.62,,Paramount
+Not specified,Not specified,"['data science', 'machine learning', 'analytics engineering', 'data engineering']",207636.77,207636.77,Not specified,RVO Health
+Not specified,Not specified,"['data science', 'machine learning', 'analytics engineering', 'data engineering']",203685.0,203685.0,Not specified,RVO Health
+Unknown,Unknown,"['data science', 'machine learning', 'analytics engineering', 'data engineering']",222653.62,222653.62,Unknown,RVO Health
+Unknown,Unknown,"['data science', 'machine learning', 'analytics engineering', 'data engineering']",188117.88,188117.88,Unknown,RVO Health
+Data Scientist,Senior,"['Python', 'GenAI', 'Generative AI', 'RAG', 'Retrieval-Augmented Generation', 'Intelligent Agents', 'Scalable Systems', 'Production-grade Systems', 'Agile']",152661.88,152661.88,,Insight Global
+Data Scientist,Not specified,"['machine learning', 'advanced analytics', 'coding', 'cloud environments', 'on-premise environments', 'data sources management', 'soft skills', 'client relationships', 'collaboration', 'communication']",112100.55,112100.55,Not specified,Southern Company
+Not specified,Not specified,[],71264.28,71264.28,Not specified,John Deere
+Data Analyst/Data Scientist,Mid-level,"['big data analysis', 'data consolidation', 'programming', 'algorithm development', 'data cleansing', 'data integration', 'software development', 'unstructured data analysis']",112501.63,112501.63,,Waystar
+Data Analyst/Data Engineer,Mid-level,"['big data', 'data analysis', 'software programming', 'algorithm development', 'data integration', 'data cleansing', 'unstructured data analysis']",85325.77,85325.77,,Waystar
+Data Scientist,Not specified,[],166870.42,166870.42,Remote - United States,Jensen Hughes Inc.
+Data Scientist,Mid-level,"['data analytics', 'source-to-pay analytics']",110965.41,110965.41,United States,PRGX
+Data Scientist,Mid-level,"['data science', 'data engineering', 'regulatory compliance', 'analytical methodologies', 'modeling', 'advanced analytics']",90043.88,90043.88,,Insight Global
+Data Scientist,,"['AI-driven analytics', 'clinical data analysis', 'preclinical behavioral analysis', 'electrophysiological (EEG) phenotyping', 'AI-enabled platforms', 'treatment response quantification']",185470.22,185470.22,,PsychoGenics
+Data Scientist,Experienced,"['Data Science', 'Technology', 'Consulting', 'Collaboration']",127886.17,127886.17,Onsite client location,Deloitte
+Data Scientist,Mid-level to Senior,"['Machine Learning', 'Forecasting', 'Predictive Modeling', 'Data Preparation', 'Business Analytics', 'Communication Skills']",153135.62,153135.62,"Atlanta, Georgia",Robert Half
+Data Scientist,Senior,"['data analytics', 'finance', 'product development', 'mentoring']",125457.73,125457.73,"San Francisco, California",Robert Half
+Data Scientist,Mid to Senior Level,"['Data Modeling', 'Machine Learning', 'Statistical Techniques', 'Predictive Modeling', 'Machine Learning Algorithms', 'Analytical Frameworks', 'Large Dataset Analysis']",84017.66,84017.66,"St. Louis, Missouri",Robert Half
+Data Scientist,Not specified,"['data science', 'computer science', 'Artificial Intelligence', 'Generative AI', 'Agentic AI', 'data analysis']",108730.15,108730.15,CINCINNATI GENERAL OFFICES,Procter & Gamble
+Data Scientist,Lead,[],104417.68,104417.68,,Textron
+Data Scientist,Not specified,"['analytical', 'statistical']",51168.93,51168.93,Not specified,Love's Travel Stops & Country Stores
+Data Scientist,Experienced,"['data analytics', 'data-oriented programming languages', 'visualization software', 'transforming raw data into meaningful information']",134566.6,134566.6,"Honolulu, Hawaii",SAIC
+Unknown,Unknown,[],246218.77,246218.77,Unknown,Amazon
+Unknown,Unknown,[],139839.88,139839.88,Unknown,RELX INC
+Not specified,Not specified,[],164326.9,164326.9,Not specified,RELX INC
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",129669.01,129669.01,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",178407.83,178407.83,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",144149.03,144149.03,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",145595.02,145595.02,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",148970.53,148970.53,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",135268.08,135268.08,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",174921.08,174921.08,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",158180.16,158180.16,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",133409.4,133409.4,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",152917.31,152917.31,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",139256.83,139256.83,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",145851.69,145851.69,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",173591.61,173591.61,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",150648.38,150648.38,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",144329.64,144329.64,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",135521.55,135521.55,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",212544.52,212544.52,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",148731.77,148731.77,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",138574.03,138574.03,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",159020.67,159020.67,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",144337.36,144337.36,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",143669.64,143669.64,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",194538.02,194538.02,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'data-driven decision-making', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",173950.56,173950.56,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",137328.16,137328.16,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",134616.39,134616.39,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",144252.58,144252.58,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",163742.92,163742.92,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",189948.56,189948.56,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",137316.77,137316.77,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",140765.52,140765.52,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",158790.33,158790.33,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",213181.53,213181.53,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",138667.5,138667.5,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",175233.3,175233.3,,Ford Motor Company
+Data Scientist,Experienced,"['Machine Learning', 'Advanced Analytics', 'Deep Learning', 'Graph Analytics', 'Anomaly Detection', 'Predictive Intelligence']",120533.75,120533.75,,Leidos
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",125932.54,125932.54,,Ford Motor Company
+Data Scientist,Mid-level,"['Data analysis', 'Machine learning', 'Scripting', 'Data transformation', 'Working with SMEs', 'Analytical skills']",158033.0,158033.0,,AeroVironment
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",166611.7,166611.7,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",209165.52,209165.52,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",153365.97,153365.97,,Ford Motor Company
+Senior Data Scientist,Senior,"['Python', 'optimization models', 'manufacturing analytics', 'enterprise data integration', 'applied analytics', 'demand elasticity', 'production planning', 'constraint-based decision frameworks']",130841.77,130841.77,,Ford Motor Company
+Data Scientist,Mid-level,"['Data Science', 'Business Intelligence', 'IT', 'Cybersecurity', 'Top Secret/SCI Security Clearance']",173838.45,173838.45,"Washington, DC","TAD PGS, Inc."
+Data Scientist,Experienced,"['AI/ML', 'Data Analytics', 'Large Datasets', 'CNO Community capabilities', 'CNE', 'Malware Analysis', 'Data Modeling', 'Large Language Models (LLM)', 'Qualitative Analysis', 'Quantitative Analysis']",133470.88,133470.88,,Leidos
+Data Scientist,Regular,"['mathematics', 'statistics', 'computer science', 'data modeling', 'data interpretation', 'large-scale data management', 'communication']",137772.86,137772.86,,AeroVironment
+Data Scientist,Mid-level,"['Statistical modeling', 'Optimization', 'Data cleansing', 'Exploratory data analysis', 'Data profiling', 'Data quality management']",111541.54,111541.54,North America,Insight Global
+ML Engineer/AI Developer,Mid to Senior Level,"['Machine Learning', 'AI/Artificial Intelligence', 'Natural Language Understanding', 'Data Extraction', 'Information Retrieval', 'Production ML Pipelines', 'Data Sourcing']",243705.8,243705.8,Global/Remote,S&P Global
+Data Engineer,Mid-level,"['Data Engineering', 'BI & Analytics', 'Production Models', 'Forecasting', 'Automation', 'Data Monitoring']",124721.45,124721.45,US,Insight Global
+GenAI and Agentic Solutions Developer,Mid to Senior Level,"['GenAI', 'Agentic AI', 'AI Agent Design', 'Context Engineering', 'Model Integration', 'AI System Development', 'Agent Orchestration', 'Model Context Protocol (MCP)', 'Production-grade AI Solutions']",99684.7,99684.7,,Insight Global
+Data Scientist,Senior,"['KPI development', 'analytics systems', 'measurement frameworks', 'observational analytics', 'multi-dimensional datasets', 'experimental methods', 'data mining']",122899.7,122899.7,"Bellevue, WA (Hybrid)",Capgemini
+Senior Data Scientist,Senior,"['AI Platform', 'Data Science', 'Production deployment', 'Big data frameworks', 'Databricks', 'AI solution development']",121093.24,121093.24,,Kruger Recruiting
+Data Scientist,Mid-level,"['TS/SCI with Favorable Polygraph', 'Data Analytics', 'ETL (Extract, Transform, Load)', 'Product Design Collaboration', 'Engineering Collaboration']",107526.34,107526.34,Northern Virginia,"Ingenium Consulting, LLC"
+Data Scientist (Elasticsearch-Focused),Senior,"['Elasticsearch', 'Data Science', 'NLP', 'Machine Learning', 'Computer Vision', 'Data Pipeline Development', 'API Development', 'Text Analytics', 'Image Processing', 'Video Processing']",184217.56,184217.56,,Kforce Federal Solutions
+Data Scientist,Mid-level,"['Databricks', 'Large dataset analysis', 'Data insights and trends identification', 'Data-driven decision making', 'Public Trust clearance or government clearance']",106117.16,106117.16,"Washington, DC (Hybrid - 1 day onsite per week)",Kforce Federal Solutions
+Data Scientist,Not specified,"['Data Science', 'TS/SCI Clearance']",150200.94,150200.94,NW DC (3-4 days onsite),Disruptive Solutions LLC
+Data Scientist,Senior,"['Data Science', 'Machine Learning', 'Multi-INT Analytics', 'GEOINT', 'Automated Model Development', 'Geospatial Intelligence', 'Research']",105216.87,105216.87,,Take2 Consulting
+Data Scientist,Not specified,"['ACTIVE TS/SCI Clearance with Polygraph', 'data acquisitions from commercial sources', 'technical analysis', 'data migration', 'working with variously formatted data sets', 'internal network operations']",151052.77,151052.77,Chantilly,Convirgence
+Data Scientist,Mid to Senior Level,"['TS/SCI with Full Scope Polygraph', 'Advanced Analytics', 'Machine Learning', 'Statistical Modeling', 'Data Analysis']",82522.05,82522.05,Washington Metro Area,"Ardent Principles, Inc."
+Data Analyst,Senior,"['TS/SCI with Polygraph clearance', 'Statistics', 'Mathematics', 'Operations Research', 'Engineering', 'Computer Science', 'Data Analysis', 'R', 'Python', 'SAS', 'MATLAB', 'Dataset Analysis', 'Analytics Development']",142637.14,142637.14,On-site,Shield Consulting Solutions
+All-Domain Operations,Senior,['TS/SCI Security Clearance'],257187.72,257187.72,,HII Mission Technologies
+,,[],129923.5,129923.5,,Cargill
+Data Scientist,Level 2 and Level 3,"['statistical methods', 'predictive modeling', 'machine learning', 'deep learning', 'data visualizations', 'data management', 'technical knowledge', 'communication']",113644.13,113644.13,"Chantilly, VA",VTG
+Data Scientist,"['I', 'II', 'III']","['data analysis', 'visualization', 'reporting', 'data modeling']",103327.42,103327.42,"Chantilly, VA",VTG
+Data Scientist,Experienced,"['data pipelines', 'analytical models', 'statistical analysis', 'machine learning', 'exploratory data analysis']",212827.67,212827.67,"San Antonio, TX",The Judge Group
+Data Scientist,,[],156696.89,156696.89,,BTI360 Inc
+Data Scientist,Not specified,"['Artificial Intelligence', 'Advanced Analytics', 'Software Development', 'Cloud Infrastructure', 'Hybrid Infrastructure', 'AI Workloads']",149637.05,149637.05,Not specified,NT Concepts
+Not specified,Not specified,[],101463.2,101463.2,Not specified,SPA
+Senior Data Scientist (AI/ML),Senior,"['Machine Learning', 'AI', 'Data Science', 'Supervised Learning', 'Unsupervised Learning', 'ML Algorithms', 'Data Classification', 'TS/SCI Clearance', 'CI Poly']",112207.61,112207.61,"Aurora, CO","DeNOVO Solutions, LLC"
+Not specified,Not specified,[],89121.9,89121.9,Not specified,SPA
+Data Scientist,Mid-level,"['Physics-based simulation modeling', 'Spacecraft systems analysis', 'Data science', 'RDT&E (Research, Development, Test & Evaluation)', 'Space-based systems', 'TS/SCI w/CI Poly clearance']",129110.64,129110.64,"Chantilly, VA",Waypoint Human Capital
+Data Scientist,Mid to Senior Level,"['Data Science', 'Secret Clearance', 'Planning, Programming, and Budgeting', 'Facilitation', 'Stakeholder Coordination', 'Military/Defense Domain Knowledge', 'Army National Guard Bureau Knowledge']",111035.6,111035.6,"Arlington, VA (Remote)","People, Technology and Processes LLC"
+Data Scientist,Mid-level,"['Statistics', 'Machine Learning', 'Data Mining', 'Data Visualization', 'Communication']",130032.21,130032.21,,CACI
+Data Scientist,Not specified,['Top Secret Clearance'],127924.84,127924.84,"Coronado, CA","Thomas & Moore Strategic Ventures, LLC"
+Data Scientist,Not specified,"['TS/SCI with Poly', 'enterprise IT', 'cloud solutions', 'DevSecOps', 'systems engineering', 'software development']",137693.25,137693.25,"Chantilly, VA",B/Core
+Data Scientist,Not specified,"['MLOps', 'analytics', 'cutting-edge technologies']",92263.82,92263.82,Huntsville,SOSi
+Data Scientist,Mid-level to Senior,"['Data cleaning', 'Data analysis', 'Technology', 'Government sector experience']",117786.62,117786.62,,BAE Systems
+Data Scientist,Not specified,[],111332.18,111332.18,Not specified,NT Concepts
+Data Scientist,Mid to Senior,"['TS/SCI clearance', 'polygraph', 'AI/ML', 'big data pipeline', 'analytics', 'networking technology', 'IoT', 'pattern discovery', 'user interfaces']",217450.23,217450.23,,NewGen Technologies
+Data Scientist,Mid-level,"['data science techniques', 'data-driven tools', 'analytic processes', 'strategic risk analysis', 'expert judgment', 'adaptable methodologies']",163348.17,163348.17,,Booz Allen Hamilton
+Data Scientist,Not specified,"['TS/SCI clearance with Polygraph', 'Intelligence', 'Satellite technologies', 'Cyber technologies']",132448.75,132448.75,"Reston, Virginia",Cornerstone Defense
+Data Scientist,General/Mid-level,[],150399.03,150399.03,"Arlington, VA (Hybrid/Remote - Washington DC area)","Elder Research, Inc."
+Not specified,Not specified,[],88637.99,88637.99,Not specified,SPA
+Data Scientist,Not specified,"['Big Data', 'Cloud Solutions', 'Data management', 'Data manipulation', 'Data storage', 'Data parsing', 'Agile methodology']",121625.17,121625.17,"Springfield, VA",ECS
+Data Scientist,Not specified,"['engineering', 'logistics', 'operations', 'science', 'program management', 'mission IT', 'cybersecurity']",102717.69,102717.69,Not specified,KBR
+Logistics Analytics Data Scientist,Mid to Senior Level,"['Data Science', 'IoT', 'Machine Learning', 'Artificial Intelligence', 'Structured Data Analysis', 'Unstructured Data Analysis', 'Logistics Analytics']",193393.73,193393.73,,Booz Allen Hamilton
+Data Scientist,Not specified,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",133740.62,133740.62,Not specified,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",148453.16,148453.16,,Booz Allen Hamilton
+Data Scientist,,[],138036.02,138036.02,"Herndon, VA",Absolute Business Solutions Corp
+Data Scientist,,[],154672.64,154672.64,Virginia,Absolute Business Solutions Corp
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",142332.34,142332.34,,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",173144.2,173144.2,,Booz Allen Hamilton
+Data Scientist,Mid to Senior,"['TS/SCI Polygraph clearance', 'AI algorithms', 'Statistical analysis', 'Data science techniques', 'Dataset analysis and interpretation', 'Data acquisition and integration']",173355.2,173355.2,,Red Arch Solutions
+Data Scientist,Not specified,"['Data collection', 'Data analysis', 'Data visualization', 'Metrics development', 'Business process analysis']",114286.24,114286.24,Not specified,Tecolote Research
+Data Scientist,Experienced,"['Statistical Analysis', 'Predictive Modeling', 'Machine Learning', 'Data Analysis']",103351.77,103351.77,"['ATL', 'Austin', 'Salt Lake City']",Kforce Technology Staffing
+Unknown,Unknown,[],82142.73,82142.73,Unknown,"Knowledge Management, Inc"
+Not specified,Not specified,[],99409.58,99409.58,Not specified,Applied Information Sciences
+Data Scientist,Mid-level,"['Data Analytics', 'Data Engineering', 'Data Mining', 'Exploratory Analysis', 'Predictive Analysis', 'Statistical Analysis', 'Intelligence Analysis', 'Data Visualization', 'Written Communication', 'Verbal Communication']",116742.79,116742.79,"Reston, VA",Invictus
+Data Scientist,Senior,"['statistical analysis', 'machine learning', 'data modeling', 'data analysis', 'business insights']",110095.37,110095.37,,VTG
+Data Scientist,Experienced,"['Data Science', 'Network Command', 'Control', 'Communications', 'Computers', 'C4', 'Army DCS G-6 support', 'Secret Clearance']",141522.53,141522.53,Local,CACI
+Data Scientist,,[],132102.47,132102.47,"Colorado Springs, CO",Raft
+Advanced Data Scientist,Senior,"['analytics', 'data science', 'IoT', 'machine learning', 'artificial intelligence', 'consulting']",139806.8,139806.8,,Booz Allen Hamilton
+Mission Data Scientist,Senior,"['IoT', 'machine learning', 'artificial intelligence', 'data analysis', 'structured data', 'unstructured data']",168118.28,168118.28,,Booz Allen Hamilton
+Data Scientist,Mid-level,"['Data querying', 'Data visualization', 'Big data analysis', 'Database optimization', 'Geospatial intelligence analysis', 'Mathematical modeling', 'Data aggregation', 'Data correlation', 'Custom tool development']",82724.87,82724.87,,Gateway Geospatial Group
+Data Scientist,Not specified,[],60079.48,60079.48,"Springfield, VA",Assertive Professionals
+Data Scientist,Mid to Senior,"['Data Engineering', 'Data Pipeline Development', 'Programming', 'Distributed Data Systems', 'Machine Learning', 'Advanced Analytics', 'Structured Data', 'Unstructured Data', 'Scalable Data Infrastructure']",107351.55,107351.55,,Anonymous Employer
+Unknown,Unknown,"['development', 'engineering', 'cyber security', 'linguistics', 'analysis']",121446.33,121446.33,"Hanover, MD",The Swift Group
+Data Scientist,Not specified,[],120240.41,120240.41,Not specified,"Syntelligent Analytic Solutions, LLC"
+Data Scientist,Mid-level,"['Machine Learning', 'Data Analytics', 'Predictive Modeling', 'Structured Data', 'Unstructured Data', 'Communication']",207498.6,207498.6,"Columbus, OH","Judge Group, Inc."
+Data Scientist,Senior,"['data science', 'machine learning', 'data visualization', 'algorithms', 'analytics']",127525.31,127525.31,"Washington, DC",PotomacWave
+Data Scientist - Risk Modeling,Mid-Level,"['Data Science', 'Risk Modeling', 'Quantitative Modeling', 'Cybersecurity', 'Data Analytics', 'Insider Risk Analysis', 'Data Lakehouse']",148181.44,148181.44,"Charlotte, NC",Sharp Decisions
+Data Scientist,,[],217425.97,217425.97,,Excelity Corp
+Not specified,Not specified,[],145408.52,145408.52,Not specified,Peraton
+Data Scientist,mid-level,"['Data Science', 'Intelligence Operations']",133579.62,133579.62,"Reston, VA",The Swift Group
+Not specified,Not specified,[],120053.41,120053.41,Not specified,Peraton
+Data,,[],184003.88,184003.88,,Analytic Services Inc
+Not specified,Not specified,[],207038.03,207038.03,Not specified,PaloAlto Networks
+Data Scientist,Experienced,"['IoT', 'machine learning', 'artificial intelligence', 'data engineering', 'structured data', 'unstructured data', 'fraud detection']",122287.07,122287.07,,Booz Allen Hamilton
+Unknown,Unknown,[],167079.03,167079.03,Unknown,Vantor
+Mathematical/Statistical Scientist,Mid to Senior Level,"['data mining', 'statistical analysis', 'data aggregation', 'data fusion', 'data visualization', 'raw data processing', 'all-source intelligence analysis', 'scientific intelligence', 'technical intelligence', 'military intelligence']",96124.84,96124.84,,SE2S
+Unknown,Unknown,[],170168.31,170168.31,"McLean, VA",By Light Professional IT Services
+Not specified,Not specified,[],119494.62,119494.62,Not specified,Peraton
+Data Architect,Senior,"['data architecture', 'database structure principles', 'data modeling', 'data design', 'SQL development', 'database administration', 'data visualization', 'data migration', 'relational database management systems', 'DBMS']",105777.77,105777.77,,"SWG Solutions, LLC"
+Unknown,Unknown,[],97698.28,97698.28,Unknown,SynergisticIT
+Data Scientist,Senior,"['Generative AI', 'Artificial Intelligence']",153024.39,153024.39,,The Hartford
+Data Scientist,Senior,"['Data Science', 'Generative AI', 'AI']",175043.39,175043.39,,The Hartford
+All-Domain Operations,Senior,['TS/SCI Security Clearance'],127691.06,127691.06,,Huntington Ingalls Industries
+Data Scientist,Not specified,"['Dashboard Analytics', 'Data Science', 'AI', 'Real-time analytics']",105653.96,105653.96,"Patuxent River, MD",MANTECH
+Data Scientist,Mid-level,"['Python', 'R', 'SQL', 'Statistical analysis', 'Regression', 'Clustering', 'Data modeling', 'Analytics', 'Cloud platforms', 'Databricks', 'Snowflake', 'Power BI']",148522.4,148522.4,"Minneapolis, MN",Aurotek corp Inc
+Not specified,Not specified,[],143287.75,143287.75,Not specified,SPA
+Data Scientist,,"['TS/SCI with Poly', 'IT solutions', 'intelligence', 'cloud solutions', 'DevSecOps', 'systems engineering', 'software development']",134023.56,134023.56,"McLean, VA",B/Core
+Data Scientist,Not specified,['TS/SCI/FS Poly clearance'],108051.02,108051.02,McLean VA,Altamira
+Data Scientist,Mid-level,"['Data Science', 'AI', 'Training Data Analysis', 'Feature Engineering', 'Bias Detection', 'Cyber Security', 'Data Quality Assessment']",118018.03,118018.03,"Fort Meade, MD",GovCIO
+Data Scientist,Senior,"['Python', 'Advanced Analytics', 'Data Pipeline Development', 'Structured Data', 'Unstructured Data', 'Web APIs', 'Enterprise Repositories', 'Dashboard Development', 'Analytic Interfaces']",135008.52,135008.52,,GRVTY
+Data Scientist,Senior,"['Python', 'Advanced Analytics', 'Data Pipeline Development', 'Structured Data Analysis', 'Unstructured Data Analysis', 'Web APIs', 'Dashboard Development', 'Intelligence Analysis']",131625.98,131625.98,,GRVTY
+Data Scientist,Senior,"['Python', 'Advanced Analytics', 'Data Pipeline Development', 'Structured Data', 'Unstructured Data', 'Web APIs', 'Dashboard Development', 'Intelligence Analysis']",123478.77,123478.77,,GRVTY
+Senior Data Scientist,Senior,"['data visualization', 'BI enablement', 'analytics engineering', 'data science', 'dashboard development', 'full-stack analytics']",129575.05,129575.05,,Kforce Federal Solutions
+Data Scientist,Experienced,"['SQL', 'Python', 'Data Visualization', 'Azure AI', 'PowerBI', 'Software Engineering']",80902.62,80902.62,,Everest Technologies
+Data Scientist,Mid-level,"['data management', 'data analysis', 'text mining', 'predictive modeling', 'risk scoring', 'algorithm development', 'data quality improvement', 'statistical analysis', 'open source data analysis', 'proprietary data analysis']",302591.84,302591.84,,Thomson Reuter Special Services
+AWS SageMaker Data Scientist,Senior,"['AWS SageMaker', 'Machine Learning', 'ML Ops', 'Transformers', 'ML Pipeline Development', 'AWS', 'Model Deployment', 'Model Optimization']",182900.97,182900.97,"Charlotte, NC","Capgemini America, Inc."
+Not specified,Not specified,[],91760.23,91760.23,Not specified,Credence Management Solutions
+Senior Data Scientist,Senior,"['Machine Learning', 'Artificial Intelligence', 'Large Language Models (LLMs)', 'foundation models', 'fine-tuning techniques', 'AI applications', 'ML applications']",159613.38,159613.38,"Washington Navy Yard, District of Columbia",UniqueHire Consulting LLC
+Data Scientist,Mid-level,"['Data Analysis', 'Data Modeling', 'Structured Data', 'Unstructured Data', 'Active TS Clearance', 'Classified Systems']",126221.83,126221.83,Tampa,TEKsystems c/o Allegis Group
+Data Scientist,Senior,"['Generative AI', 'Machine Learning', 'GANs', 'VAEs', 'Transformer-based models', 'Communication', 'Customer service', 'Problem solving']",249967.62,249967.62,,steampunk
+Data Scientist,Mid to Senior,"['Python', 'R', 'Machine Learning', 'Advanced Analytics', 'Data Science', 'Business Communication', 'Analytical Skills']",126123.64,126123.64,"Richmond, VA",Pull Skill Technologies
+Data Scientist,Mid-level,"['predictive analytics', 'machine learning', 'data-driven insights', 'analytical skills', 'modeling skills', 'ML frameworks', 'data exploration', 'feature engineering', 'model development', 'collaboration']",151706.17,151706.17,,steampunk
+Data Scientist,Mid-level,"['Data Science', 'AI', 'Data Analytics', 'Data Architecture', 'Collaboration']",96142.71,96142.71,"Tampa, FL",MANTECH
+Data Scientist,Mid-Level,"['Data Science', 'Data Analysis', 'SQL', 'Relational Database', 'Data Querying', 'Data Visualization', 'Data Aggregation', 'Computer Science', 'Mathematics', 'Statistics', 'TS/SCI Clearance']",132881.06,132881.06,"St. Louis, MO",CCS Global Tech
+Data Scientist,Not specified,[],162022.6,162022.6,Not specified,SOSi
+Data Scientist,,[],159503.66,159503.66,"Saint Louis, MO",Absolute Business Solutions Corp
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data', 'unstructured data']",154736.97,154736.97,,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",154559.69,154559.69,,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",134431.02,134431.02,,Booz Allen Hamilton
+Data Scientist (U.S. Intelligence Community),Not specified,"['data systems', 'scalable systems', 'real-time insights', 'TS/SCI clearance', 'polygraph']",89080.09,89080.09,"Ft. Meade, MD","Elder Research, Inc."
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",170430.92,170430.92,,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",142569.4,142569.4,,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",111758.96,111758.96,,Booz Allen Hamilton
+Data Scientist,Not specified,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",114788.6,114788.6,Not specified,Booz Allen Hamilton
+Data Scientist,Not specified,"['IoT', 'machine learning', 'artificial intelligence', 'AI', 'data analysis', 'structured data', 'unstructured data']",131884.08,131884.08,Not specified,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",111336.95,111336.95,,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",113400.97,113400.97,,Booz Allen Hamilton
+Data Scientist,Not specified,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",125174.61,125174.61,Not specified,Booz Allen Hamilton
+Data Scientist,,[],131088.94,131088.94,"Saint Louis, MO",Absolute Business Solutions Corp
+Data Scientist,,[],132023.25,132023.25,"Aurora, CO",Absolute Business Solutions Corp
+Data Scientist,Mid-level,"['data science', 'machine learning', 'semantic technologies', 'structured data', 'unstructured data']",229151.2,229151.2,,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data', 'unstructured data']",119615.26,119615.26,,Booz Allen Hamilton
+Data Scientist,,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",129993.9,129993.9,,Booz Allen Hamilton
+Data Scientist,Not specified,"['mathematics', 'statistics', 'computer science', 'analytic modeling', 'statistical analysis', 'programming', 'data extraction', 'quantitative methods', 'qualitative methods']",95221.83,95221.83,Not specified,Nyla Technology Solutions Inc
+Data Scientist,4,[],320319.56,320319.56,"Redmond, WA",BCforward
+Data Scientist Associate,Associate,"['analytical experience', 'quantitative analysis', 'portfolio experience', 'coding', 'technical and business communication', 'stakeholder management', 'data analysis', 'methodology implementation']",106650.61,106650.61,Remote,Apetan Consulting
+Data Scientist,Not specified,"['Data Science', 'Analytics', 'TS/SCI with Poly clearance']",92824.87,92824.87,"Ft. Meade, MD","Elder Research, Inc."
+Data Scientist,Mid-level,"['Artificial Intelligence', 'Machine Learning', 'Large Language Models', 'Computer Network Exploitation', 'Computer Network Operations', 'Technology Evaluation']",140912.86,140912.86,Fort Meade,Markon
+Data Scientist,Mid-level,"['data analysis', 'computer scripting', 'statistical analysis', 'data modeling', 'rapid prototyping', 'sensor performance evaluation', 'data integration']",143065.17,143065.17,Fort Meade,Markon
+Data Scientist,Not specified,"['Data Analytics', 'AI', 'BI', 'Advanced Analytics']",96620.12,96620.12,"Omaha, NE",Stillwater Human Capital
+Data Exploitation Expert,,"['data strategy', 'data collection', 'data exploitation', 'technology']",166571.98,166571.98,,steampunk
+Data Scientist,Mid-level,"['statistical analysis', 'data ingestion', 'data processing', 'analytics development', 'automated analytics']",140069.58,140069.58,,Leidos
+Senior Data Scientist,Senior,"['modeling', 'statistical analysis', 'algorithmic techniques', 'data mining', 'data visualization', 'data infrastructure']",180188.19,180188.19,"Columbus, OH",Genesis10
+Data Scientist,Senior/Lead,"['machine learning', 'natural language processing', 'artificial intelligence', 'AI']",117454.38,117454.38,"Columbus, OH",Genesis10
+Data Scientist,Experienced,"['Data Collection', 'Data Cleaning', 'Data Analysis', 'Statistical Modeling', 'Predictive Analytics', 'Machine Learning', 'Algorithm Development', 'Experiment Design', 'Model Evaluation']",125406.41,125406.41,"Herndon, VA/Chantilly, VA",VTG
+Senior Data Scientist,Senior,"['SQL', 'Python', 'R', 'healthcare data analytics', 'claims data', 'pharmacy data', 'EHR data', 'analytical modeling', 'data-driven insights']",106354.13,106354.13,,Compunnel Inc.
+Data Scientist,Not specified,"['analytics', 'data science', 'IoT', 'machine learning', 'artificial intelligence', 'AI']",127232.55,127232.55,Not specified,Booz Allen Hamilton
+Data Scientist/Research Engineer,Senior,"['Deep Learning', 'Distributed Training', 'Open Source Development', 'AI Research', 'Research Implementation']",161515.33,161515.33,,Digital Technology Solutions
+Data Scientist,Mid-level,"['Statistical Analysis', 'Machine Learning', 'Data Visualization']",83024.89,83024.89,,SOSi
+Data Scientist,Not specified,"['Communication', 'Business analysis', 'Technical translation', 'Enterprise values understanding', 'Problem solving']",87232.42,87232.42,"MacDill AFB, near Tampa, FL",Marathon TS Inc
+Data Scientist,Senior,"['Python development', 'full-stack development', 'geospatial analytics', 'dashboarding', 'DevSecOps']",102529.2,102529.2,,"Tailored Access, LLC"
+Data Scientist,Mid-level,"['Big Data', 'Data Querying', 'Data Visualization', 'Data Aggregation', 'Data Correlation', 'Data Analysis', 'Database Optimization', 'Custom Tool Development', 'Mathematics', 'Geospatial Intelligence Analysis', 'Intelligence Disciplines']",100545.23,100545.23,,Gateway Geospatial Group
+Data Scientist,Mid-level,"['Data Science', 'Analytics', 'Machine Learning', 'Data Engineering', 'Predictive Modeling']",227286.64,227286.64,"Oahu, Hawaii",MANTECH
+Data Scientist,Senior,"['large structured data', 'unstructured data', 'modeling', 'analytical environment', 'data evaluation', 'intelligence analysis', 'solution design', 'process refinement', 'stakeholder engagement', 'TS/SCI clearance']",130139.4,130139.4,"Fayetteville, NC",Anonymous Employer
+Data Scientist,Not specified,"['data science', 'analytics', 'structured data analysis', 'unstructured data analysis', 'systems thinking', 'actionable intelligence generation']",146149.66,146149.66,Not specified,Booz Allen Hamilton
+Not specified,Not specified,[],230161.1,230161.1,"Plano, Texas, United States",RTX
+Data Scientist,Mid-level,"['data analysis', 'structured data', 'unstructured data', 'software development', 'algorithms', 'dashboards', 'data modeling', 'SQL queries', 'data integration', 'analytic methodologies']",117325.52,117325.52,"Lexington, MA (Hybrid)",Digital Prospectors
+Data Scientist,Not specified,"['Active TS/SCI clearance', 'Polygraph']",98441.26,98441.26,"McLean, VA",Cornerstone Defense
+Applied Data Scientist,Mid to Senior,"['Data Science', 'Data Engineering', 'Databricks', 'Data Pipelines', 'Data Lake Architecture', 'Data Analysis', 'Statistical Analysis', 'Causal Inference']",159605.92,159605.92,,Will-N-Able
+Actuarial Data Scientist,Mid to Senior,"['Data Science', 'Actuarial Analysis', 'Property and Casualty Insurance', 'Model Deployment', 'Data Engineering', 'Data Pipelines', 'Automation', 'Pricing Models', 'Risk Assessment', 'Analytics']",78190.02,78190.02,Remote (CST/EST),Apex Systems
+Not specified,Not specified,[],111760.88,111760.88,Not specified,Redhorse Corporation
+Senior Data Scientist,Senior,"['data science', 'intelligence operations', 'GEOINT', 'multi-INT', 'analytic expertise', 'advanced methodologies', 'analytical tradecraft']",125369.34,125369.34,,GRVTY
+Unknown,Unknown,[],205698.56,205698.56,Unknown,Peraton
+Data Scientist,Mid-level,"['Python', 'Data Analytics', 'Data Pipelines', 'Workflow Automation', 'Data Parsing', 'X14 data processing']",144551.0,144551.0,Fort Meade,Markon
+Not specified,Not specified,[],87128.99,87128.99,Not specified,SPA
+Data Scientist,Regular,"['Data Analysis', 'Machine Learning', 'Scripting', 'Data Transformation', 'Working with Complex Data', 'Collaboration with SMEs', 'Quantitative Analysis']",170943.69,170943.69,,"AV, Inc."
+Data Scientist,Regular,"['mathematics', 'statistics', 'computer science', 'data management', 'data modeling', 'data interpretation', 'large-scale data analysis', 'communication']",135112.2,135112.2,,"AV, Inc."
+Not specified,Not specified,[],113913.23,113913.23,Not specified,MITRE Corporation
+Unknown,Unknown,[],135015.98,135015.98,Unknown,MITRE Corporation
+Data Scientist,Experienced,"['Machine Learning', 'Advanced Analytics', 'Deep Learning', 'Graph Analytics', 'Anomaly Detection', 'Predictive Intelligence']",108651.88,108651.88,,Leidos
+Data Scientist,Full-time,[],99474.16,99474.16,"Killeen, TX",Trideum Corporation
+Data Scientist,Mid to Senior,"['Information Security Engineering', 'AI', 'Machine Learning', 'Data-driven solutions', 'Cybersecurity']",103927.1,103927.1,"Charlotte, NC (Hybrid)",Apex Systems
+Data Scientist,Experienced,"['AI/ML', 'Data Analytics', 'Large Datasets', 'CNO Community capabilities', 'CNE', 'Malware Analysis', 'Data Modeling', 'Large Language Models (LLM)']",125365.76,125365.76,,Leidos
+Data Scientist,Not specified,"['Security Engineering', 'Computer Network Operations (CNO)', 'Mission Software', 'Analytical Methods and Modeling', 'Signals Intelligence (SIGINT)', 'Cryptographic Key Management']",128442.06,128442.06,Not specified,Leidos
+Remote Sensing Scientist,Senior,"['Remote Sensing', 'Geospatial Science', 'Data Science', 'Image Processing', 'Atmospheric Correction', 'Orthorectification', 'Segmentation', 'Feature Extraction', 'GDAL', 'Rasterio', 'GeoPandas', 'Agronomy', 'Imagery & Robotics']",137479.52,137479.52,,GLOBAL IT CON LLC
+NLP Engineer/Data Scientist,Mid-level,"['Natural Language Processing', 'Tokenization', 'Language Data Annotation', 'Parts of Speech Tagging', 'Machine Learning', 'Model Development', 'Performance Evaluation', 'Mathematics', 'Statistics', 'Top Secret SCI Clearance', 'Full Polygraph']",116070.38,116070.38,,Fuse Engineering LLC
+Database Scientist,Mid-level,"['Oracle', 'Microsoft SQL Server', 'Windows Server', 'Linux Server', 'Database Design', 'Database Automation', 'Database Security', 'Database Management', 'Database Optimization', 'CompTIA Security CE']",149596.23,149596.23,Kansas City MO,"22nd Century Technologies, Inc."
+Data Scientist / ML Engineer,Senior,"['Machine Learning', 'Data Analysis', 'Threat Detection', 'Risk Scoring', 'Data Visualization', 'Data Preparation', 'Data Transformation', 'Quality Assurance', 'Model Operationalization', 'Exploratory Data Analysis', 'Diagnostic Analysis']",148170.56,148170.56,,"A3 Missions, LLC"
+Data Scientist,Mid-level,"['Statistical modeling', 'Machine learning', 'Exploratory data analysis', 'Forecasting models', 'Sales performance analysis', 'Inventory analysis', 'Business communication', 'Analytical frameworks']",136928.77,136928.77,,ProCorp Systems Inc.
+Software Developer/Programmer,Not specified,"['Programming', 'Tech stack (unspecified)']",175964.45,175964.45,Not specified,SynergisticIT
+Software Developer/Programmer,Entry to Mid-level,"['Programming', 'Tech stack (unspecified)', 'Project work experience']",332658.4,332658.4,Not specified,SynergisticIT
+Software Developer,Not specified,[],182819.19,182819.19,Not specified,SynergisticIT
+Senior AI Data Scientist,Senior,"['AI', 'ML', 'Machine Learning', 'Advanced Analytics', 'Data Science', 'Propensity Modeling', 'Next-Best-Action Models', 'Churn Prediction', 'Retention Modeling', 'Lead Generation', 'Competitive Intelligence']",250748.84,250748.84,,Maven Companies
+Associate Data Scientist,Associate/Entry-level,"['data science', 'advanced analytics', 'algorithms', 'trend identification', 'business solutions development']",160860.02,160860.02,,Home Depot
+Lead Data Scientist,Lead,"['Data Science', 'Coaching', 'Team Leadership']",189723.34,189723.34,,RELX INC
+Staff Data Scientist,Senior/Staff,"['Data Science', 'AI', 'Predictive Analytics', 'Technical Leadership']",206515.47,206515.47,"Beachwood, OH",Penske
+Data Scientist III,Mid to Senior Level,[],81005.77,81005.77,"Boise, Idaho",Simplot
+Lead Data Scientist,Lead,[],133579.75,133579.75,Work from Home,HCA Healthcare
+Data Scientist I,Entry Level,[],123749.32,123749.32,"New York, New York;Charlotte, North Carolina",Bank of America
+Data Scientist I,Entry Level,[],85803.3,85803.3,"New York, New York;Charlotte, North Carolina",Bank of America
+Sr. Data Scientist/Analyst,Senior,"['analytical thinking', 'problem-solving', 'communication skills', 'data science', 'data analysis']",241039.8,241039.8,"Longmont, Colorado",ManpowerGroup
+Data Scientist,Mid-level,"['data science', 'analytical methodologies', 'large datasets', 'business insight extraction', 'algorithm development', 'code documentation']",150418.11,150418.11,,Home Depot
+Sr. Data Scientist,Senior,[],128148.17,128148.17,"Charlotte, NC, US; Corning, NY, US",Corning Incorporated
+Sr. Data Scientist,Senior,[],156002.2,156002.2,"Charlotte, NC, US; Corning, NY, US",Corning Incorporated
+,,[],207900.89,207900.89,,Takeda Pharmaceuticals
+Generative Business Intelligence (Gen BI),Senior/Key Player,"['Enterprise analytics', 'Semantic layer design', 'Multi-agent architectures', 'AI-driven insights', 'IT partnership', 'Business Intelligence']",161789.75,161789.75,,Home Depot
+Data Scientist I,Entry Level,[],94893.84,94893.84,"Charlotte, North Carolina",Bank of America
+Geospatial Data Scientist,Senior/Lead,"['GEOINT analysis', 'data architecture', 'data structures', 'systems design', 'process automation', 'data modeling', 'geospatial intelligence']",106025.2,106025.2,"Fort Gordon, GA",BAE Systems
+Principal Data Scientist,Principal,"['Data Science', 'Analytics', 'Metrics', 'Measurement Systems', 'Experimentation Frameworks', 'AI']",218569.0,218569.0,,Microsoft Corporation
+"Digital Science, Data, and AI Professional",Not specified,"['digital innovation', 'data science', 'AI', 'analytics', 'automation', 'digital platforms']",220111.06,220111.06,Office,ThermoFisher Scientific
+"Digital Science, Data, and AI professional",,"['digital innovation', 'data science', 'AI', 'analytics', 'automation', 'digital platforms']",215063.88,215063.88,Office,ThermoFisher Scientific
+Senior Data Scientist,Senior,"['demand forecasting', 'machine learning', 'data analysis', 'forecasting systems', 'collaboration']",239440.61,239440.61,,Walmart
+Principal Data Scientist,Principal,"['data pipelines', 'clinical data analysis', 'immunologic data analysis', 'genomic data analysis', 'laboratory data analysis', 'statistical analysis', 'bioinformatics', 'machine learning']",75610.59,75610.59,University of Colorado Anschutz Medical Campus,University of Colorado
+Unknown,Unknown,[],177816.2,177816.2,Unknown,Indeed
+Not specified,Not specified,[],199655.67,199655.67,Not specified,Indeed
+Unknown,Unknown,[],197673.17,197673.17,Unknown,Indeed
+Unknown,Unknown,[],199569.25,199569.25,Unknown,Indeed
+Not specified,Not specified,[],272947.2,272947.2,Not specified,Indeed
+Unknown,Unknown,[],190155.9,190155.9,Unknown,Indeed
+Not specified,Not specified,[],239870.3,239870.3,Not specified,Indeed
+Unknown,Unknown,[],244651.94,244651.94,Unknown,Indeed
+Unknown,Unknown,[],274404.3,274404.3,Unknown,Indeed
+Unknown,Unknown,[],192013.58,192013.58,Unknown,Indeed
+Unknown,Unknown,[],248241.48,248241.48,Unknown,Indeed
+Not specified,Not specified,[],218222.84,218222.84,Not specified,Indeed
+Unknown,Unknown,[],220788.02,220788.02,Unknown,Indeed
+Unknown,Unknown,[],190964.25,190964.25,Unknown,Indeed
+Unknown,Unknown,[],239076.45,239076.45,Unknown,Indeed
+Not specified,Not specified,[],238047.88,238047.88,Not specified,Indeed
+Unknown,Unknown,[],228476.05,228476.05,Unknown,Indeed
+Unknown,Unknown,[],197931.22,197931.22,Unknown,Indeed
+Unknown,Unknown,[],281229.8,281229.8,Unknown,Indeed
+Unknown,Unknown,[],182945.45,182945.45,Unknown,Indeed
+Unknown,Unknown,[],288306.44,288306.44,Unknown,Indeed
+Unknown,Unknown,[],185841.67,185841.67,Unknown,Indeed
+Unknown,Unknown,[],223611.0,223611.0,Unknown,Indeed
+Unknown,Unknown,[],200007.28,200007.28,Unknown,Indeed
+Unknown,Unknown,[],188303.64,188303.64,Unknown,Indeed
+Unknown,Unknown,[],255109.12,255109.12,Unknown,Indeed
+Unknown,Unknown,[],200929.34,200929.34,Unknown,Indeed
+Not specified,Not specified,[],189261.44,189261.44,Not specified,Indeed
+Unknown,Unknown,[],211453.97,211453.97,Unknown,Indeed
+Unknown,Unknown,[],238639.55,238639.55,Unknown,Indeed
+Not specified,Not specified,[],224542.06,224542.06,Not specified,Indeed
+Unknown,Unknown,[],238540.11,238540.11,Unknown,Indeed
+Unknown,Unknown,[],190105.14,190105.14,Unknown,Indeed
+Unknown,Unknown,[],191501.89,191501.89,Unknown,Indeed
+Unknown,Unknown,[],210391.69,210391.69,Unknown,Indeed
+Data Scientist,Entry to Mid-level,"['data analysis', 'data visualization', 'high-volume data management', 'analytical skills', 'coordination with program teams', 'translating analytical outputs into operational plans', 'process improvements']",110053.8,110053.8,,COLSA Corporation
+Senior Data Scientist,Senior,"['Marketing Mix Modeling', 'MMM', 'conversion analytics', 'attribution analytics', 'statistical modeling', 'production systems', 'data pipelines', 'collaboration with cross-functional teams']",261150.64,261150.64,,Insight Global
+Unknown,Unknown,[],232796.88,232796.88,Unknown,Roche
+Senior Data Scientist,Senior,[],126567.54,126567.54,Remote,CAI
+Senior Data Scientist,Senior,[],152924.16,152924.16,Remote,CAI
+Senior Data Scientist,Senior,[],134625.0,134625.0,Remote,CAI
+Senior Data Scientist,Senior,[],148298.92,148298.92,Remote,CAI
+Senior Data Scientist,Senior,[],128254.78,128254.78,Remote,CAI
+Senior Data Scientist,Senior,[],162122.28,162122.28,Remote,CAI
+Senior Data Scientist,Senior,[],117612.09,117612.09,Remote,CAI
+Senior Data Scientist,Senior,[],185890.6,185890.6,Remote,CAI
+Senior Data Scientist,Senior,[],129505.75,129505.75,Remote,CAI
+Senior Data Scientist,Senior,[],136842.88,136842.88,Remote,CAI
+Senior Data Scientist,Senior,[],198501.73,198501.73,Remote,CAI
+Senior Data Scientist,Senior,[],134721.83,134721.83,Remote,CAI
+Senior Data Scientist,Senior,[],166620.3,166620.3,Remote,CAI
+Senior Data Scientist,Senior,[],130422.18,130422.18,Remote,CAI
+Senior Data Scientist,Senior,[],135916.7,135916.7,Remote,CAI
+Senior Data Scientist,Senior,[],128244.14,128244.14,Remote,CAI
+Senior Data Scientist,Senior,[],131465.03,131465.03,Remote,CAI
+Senior Data Scientist,Senior,[],138905.2,138905.2,Remote,CAI
+Senior Data Scientist,Senior,[],125722.19,125722.19,Remote,CAI
+Senior Data Scientist,Senior,[],155603.69,155603.69,Remote,CAI
+Senior Data Scientist,Senior,[],130056.27,130056.27,Remote,CAI
+Senior Data Scientist,Senior,[],128896.57,128896.57,Remote,CAI
+Senior Data Scientist,Senior,[],142814.08,142814.08,Remote,CAI
+Senior Data Scientist,Senior,[],126330.94,126330.94,Remote,CAI
+Senior Data Scientist,Senior,[],163363.6,163363.6,Remote,CAI
+Senior Data Scientist,Senior,[],177398.69,177398.69,Remote,CAI
+Senior Data Scientist,Senior,[],122196.95,122196.95,Remote,CAI
+Senior Data Scientist,Senior,[],134801.12,134801.12,Remote,CAI
+,,[],218154.38,218154.38,,Paramount
+Senior Data Scientist,Senior,[],163655.5,163655.5,Remote,CAI
+Senior Data Scientist,Senior,[],140694.92,140694.92,Remote,CAI
+Senior Data Scientist,Senior,[],195345.98,195345.98,Remote,CAI
+Senior Data Scientist,Senior,[],143232.95,143232.95,Remote,CAI
+Senior Data Scientist,Senior,[],121101.79,121101.79,Remote,CAI
+Associate Data Scientist,Associate,"['data science', 'yield optimization', 'demand analytics']",74847.6,74847.6,,Carnival Cruise Line
+Senior Data Scientist,Senior,[],129418.34,129418.34,Remote,CAI
+Senior Data Scientist,Senior,[],136215.16,136215.16,Remote,CAI
+Senior Data Scientist,Senior,[],181684.56,181684.56,Remote,CAI
+Senior Data Scientist,Senior,[],135975.56,135975.56,Remote,CAI
+Senior Data Scientist,Senior,[],134177.28,134177.28,Remote,CAI
+Senior Data Scientist,Senior,[],199096.47,199096.47,Remote,CAI
+Senior Data Scientist,Senior,[],139287.64,139287.64,Remote,CAI
+Senior Data Scientist,Senior,[],148514.19,148514.19,Remote,CAI
+Senior Data Scientist,Senior,[],124595.07,124595.07,Remote,CAI
+Senior Data Scientist,Senior,[],147729.36,147729.36,Remote,CAI
+Senior Data Scientist,Senior,[],139127.8,139127.8,Remote,CAI
+Senior Data Scientist,Senior,[],162457.67,162457.67,Remote,CAI
+Junior AI Data Scientist,Junior,"['Artificial Intelligence', 'Generative AI', 'Natural Language Processing', 'Machine Learning', 'Data Analysis', 'Intelligent Automation', 'AI-powered Decision Systems', 'Merchandising Analytics', 'Supply Chain Analytics', 'Marketing Analytics']",89216.3,89216.3,,Burlington
+Senior Data Scientist,Senior,"['Data Science', 'Top Secret/SCI Clearance']",163310.17,163310.17,"Remote, OR, USA",SOS International LLC
+Staff Data Scientist,Staff,"['Data Science', 'AI', 'Machine Learning', 'Personalization', 'Recommendation Systems', 'Algorithmic Development', 'Content Generation Models', 'eCommerce']",231243.12,231243.12,Sunnyvale,Walmart
+Health Research and Analytics,,[],84614.38,84614.38,,Battelle Memorial Institute
+Health Research and Analytics,Not specified,[],76482.32,76482.32,Not specified,Battelle Memorial Institute
+Unknown,Mid to Senior Level,"['Analytical skills', 'Results orientation', 'Collaborative leadership', 'Cross-functional partnership', 'Business impact measurement', 'Team guidance/influence', 'Navigating ambiguity', 'Translating insights to action']",144009.84,144009.84,Unknown,Fortive Corporation
+Health Research and Analytics,Not specified,[],73430.59,73430.59,Not specified,Battelle Memorial Institute
+Health Research and Analytics,Not specified,[],75097.42,75097.42,Not specified,Battelle Memorial Institute
+Health Research and Analytics,,[],83082.39,83082.39,,Battelle Memorial Institute
+Health Research and Analytics,,[],74082.0,74082.0,,Battelle Memorial Institute
+Health Research and Analytics,Not specified,[],83332.2,83332.2,Not specified,Battelle Memorial Institute
+Industry Solutions Engineer,,"['problem solving', 'customer engagement', 'innovation', 'trend identification', 'business solutions', 'technology learning']",189572.5,189572.5,global,Microsoft Corporation
+Principal Data Scientist,Principal,"['machine learning', 'statistical modeling', 'data science', 'analytics']",111286.0,111286.0,,Solstice Advanced Materials
+Data Scientist,Not specified,"['generative AI', 'artificial intelligence', 'machine learning', 'statistics', 'deep learning', 'computer vision', 'optimization', 'ML engineering', 'product classification']",237735.47,237735.47,Not specified,Walmart
+Staff Data Scientist,Staff,"['statistical models', 'machine learning algorithms', 'computational algorithms', 'data analysis', 'data validity assessment', 'analytics', 'team leadership', 'Global Sourcing']",252477.02,252477.02,,Walmart
+Principal Data Scientist,Principal,"['machine learning', 'statistical modeling', 'data science', 'analytics']",121628.19,121628.19,,Solstice Advanced Materials
+Data Scientist,Senior,"['Data Science', 'MLOps', 'Analytics', 'Machine Learning']",122974.03,122974.03,"Huntsville, AL, USA",SOS International LLC
+Senior Data Scientist,Senior,"['Retrieval-Augmented Generation (RAG)', 'Agentic AI', 'Machine Learning', 'Natural Language Processing (NLP)', 'Legal Intelligence', 'Document Intelligence', 'Workflow Automation', 'Enterprise-scale AI Systems']",145047.17,145047.17,,Insight Global
+Industry Solutions Engineer,,"['problem solving', 'customer collaboration', 'innovation', 'trend identification', 'business solutions', 'technology learning']",194501.84,194501.84,,Microsoft Corporation
+Senior Data Scientist,Senior,"['deep learning', 'machine learning', 'data mining', 'anomaly detection', 'full stack', 'predictive modeling', 'analytics']",220415.02,220415.02,,Walmart
+Industry Solutions Engineer,Not specified,"['problem solving', 'customer engagement', 'innovation', 'trend identification', 'business solutions', 'technical learning']",205022.89,205022.89,Not specified,Microsoft Corporation
+Not specified,Not specified,"['problem solving', 'data analysis', 'strategic thinking']",246866.06,246866.06,Not specified,Microsoft Corporation
+Principal Data Scientist,Principal/Senior,"['Artificial Intelligence', 'Machine Learning', 'Data Science', 'Modeling', 'Experimentation', 'Algorithm Design', 'Mentoring', 'Technical Leadership']",198494.9,198494.9,,GE Vernova
+Principal Data Scientist,Senior/Principal,"['Artificial Intelligence', 'Machine Learning', 'Data Science', 'Modeling', 'Experimentation', 'Algorithm Design', 'Mentoring', 'Technical Leadership']",276761.5,276761.5,,GE Vernova
+Distinguished Data Scientist - eCommerce Search AI,Distinguished/Senior,"['eCommerce Search', 'Neural Search', 'Generative AI', 'Agentic AI', 'Machine Learning', 'Deep Learning', 'AI Architecture', 'Scalable Infrastructure', 'Personalization']",419431.8,419431.8,,Walmart
+Lead Data Scientist,Lead,"['data infrastructure', 'data governance', 'data engineering', 'data modeling', 'data analysis', 'business intelligence', 'data science', 'AI']",139889.62,139889.62,U.S.,MetLife
+Not specified,Not specified,[],228096.14,228096.14,Not specified,Sedgwick
+,,[],162544.3,162544.3,,Sedgwick
+,,[],192759.22,192759.22,,Sedgwick
+,,[],163738.72,163738.72,,Sedgwick
+,,[],186585.77,186585.77,,Sedgwick
+,,[],188508.48,188508.48,,Sedgwick
+,,[],218124.62,218124.62,,Sedgwick
+,,[],165047.8,165047.8,,Sedgwick
+,,[],182276.03,182276.03,,Sedgwick
+,,[],157838.1,157838.1,,Sedgwick
+,,[],183592.48,183592.48,,Sedgwick
+,,[],210705.53,210705.53,,Sedgwick
+,,[],168472.66,168472.66,,Sedgwick
+Unknown,Unknown,[],178551.31,178551.31,Unknown,Sedgwick
+,,[],171799.4,171799.4,,Sedgwick
+,,[],161586.67,161586.67,,Sedgwick
+,,[],160078.47,160078.47,,Sedgwick
+,,[],147655.83,147655.83,,Sedgwick
+,,[],174388.4,174388.4,,Sedgwick
+Not specified,Not specified,[],203536.64,203536.64,Not specified,Sedgwick
+,,[],211340.67,211340.67,,Sedgwick
+,,[],249208.8,249208.8,,Sedgwick
+,,[],163278.86,163278.86,,Sedgwick
+Unknown,Unknown,[],162678.28,162678.28,Unknown,Sedgwick
+Not specified,Not specified,[],204499.36,204499.36,Not specified,Sedgwick
+,,[],191988.67,191988.67,,Sedgwick
+Not specified,Not specified,[],170710.55,170710.55,Not specified,Sedgwick
+,,[],204416.3,204416.3,,Sedgwick
+Not specified,Not specified,[],254223.88,254223.88,Not specified,Sedgwick
+,,[],233376.17,233376.17,,Sedgwick
+,,[],158899.23,158899.23,,Sedgwick
+,,[],219780.9,219780.9,,Sedgwick
+,,[],164349.16,164349.16,,Sedgwick
+,,[],161897.47,161897.47,,Sedgwick
+Unknown,Unknown,[],185686.48,185686.48,Unknown,Sedgwick
+,,[],159356.48,159356.48,,Sedgwick
+,,[],164380.67,164380.67,,Sedgwick
+,,[],171317.58,171317.58,,Sedgwick
+Not specified,Not specified,[],248362.73,248362.73,Not specified,Sedgwick
+,,[],179822.19,179822.19,,Sedgwick
+,,[],173637.97,173637.97,,Sedgwick
+,,[],205461.34,205461.34,,Sedgwick
+,,[],152037.12,152037.12,,Sedgwick
+,,[],249955.94,249955.94,,Sedgwick
+,,[],165726.66,165726.66,,Sedgwick
+,,[],246509.4,246509.4,,Sedgwick
+,,[],164225.08,164225.08,,Sedgwick
+,,[],213363.38,213363.38,,Sedgwick
+Not specified,Not specified,[],178925.47,178925.47,Not specified,Sedgwick
+Not specified,Not specified,[],161004.14,161004.14,Not specified,Sedgwick
+Not specified,Not specified,[],171011.19,171011.19,Not specified,Sedgwick
+,,[],169236.11,169236.11,,Sedgwick
+,,[],210965.31,210965.31,,Sedgwick
+,,[],185466.67,185466.67,,Sedgwick
+Not specified,Not specified,[],186257.92,186257.92,Not specified,Sedgwick
+,,[],169136.56,169136.56,,Sedgwick
+,,[],176635.3,176635.3,,Sedgwick
+,,[],169226.75,169226.75,,Sedgwick
+Economist,Mid-level,"['Data Science', 'Economics', 'Large Data Set Analysis', 'Economic Indicators Development', 'Internal and External Data Analysis']",143545.28,143545.28,,The Hartford
+Unknown,Unknown,[],187184.97,187184.97,Unknown,Sprinklr
+Data Analyst/Solutions Analyst,Not specified,"['problem solving', 'data analysis', 'insight generation', 'strategic thinking', 'technical excellence']",244043.03,244043.03,Not specified,Microsoft Corporation
+Data Scientist Intern,Intern,"['data analytics', 'machine learning', 'data analysis', 'model building']",58975.79,58975.79,,Fortive Corporation
+,,[],192582.45,192582.45,,J&J Family of Companies
+Senior Data Scientist,Senior,"['data science', 'analytics', 'metrics development', 'engineering', 'leadership reporting', 'Copilot', 'M365']",214297.75,214297.75,,Microsoft Corporation
+AI Developer/Engineer,Not specified,"['AI', 'Enterprise AI', 'AI modules', 'AI pipelines', 'Machine Learning']",127715.66,127715.66,Not specified,Humana
+Data Analyst,Not specified,"['data analysis', 'metrics', 'analytics', 'data interpretation']",143590.06,143590.06,Not specified,Ford Motor Company
+AI Developer/Engineer,Not specified,"['AI', 'AI modules development', 'AI pipelines', 'Enterprise AI']",177291.45,177291.45,Not specified,Humana
+Senior Data Scientist,Senior,"['data analytics', 'data capture requirements', 'pattern analysis', 'trend analysis', 'structured data analysis', 'unstructured data analysis', 'dashboard creation', 'data visualization', 'presentations', 'storytelling with data']",152134.3,152134.3,,Insight Global
+Data Scientist,Not specified,"['machine learning', 'statistics', 'optimization', 'data mining', 'analytical modeling', 'machine learning algorithms']",242948.84,242948.84,Not specified,Walmart
+Data Scientist,Experienced,"['Healthcare software applications', 'Computer science', 'Mathematical modeling', 'Predictive modeling', 'Statistical methods', 'Data analysis', 'Technical problem solving']",85919.82,85919.82,,Waystar
+Data Scientist Expert,Expert,"['Data Science', 'GEOINT', 'Intelligence Analysis', 'Top Secret/SCI Clearance']",135818.62,135818.62,"Fort Gordon, GA, USA",SOS International LLC
+Data Analytics,Not specified,['Data Analytics'],89661.37,89661.37,Not specified,Xcel Energy
+Data Analytics,Not specified,['data analytics'],96601.15,96601.15,Not specified,Xcel Energy
+Data Scientist,Not specified,"['Generative AI', 'Data Science', 'Data-driven decision-making', 'Machine Learning', 'Agentic systems', 'Data analysis']",152625.19,152625.19,Not specified,Robert Half
+Data Scientist,Mid-level,"['Machine Learning', 'Time Series Forecasting', 'Data Pipelines', 'Analytics']",131095.94,131095.94,Remote,Insight Global
+Data Scientist/Analyst/Engineer - B2B Commercialization,Not specified,"['data science', 'analytics', 'engineering', 'data-driven insights', 'B2B solutions']",236244.03,236244.03,Not specified,Walmart
+Data Scientist/Analyst/Engineer,Not specified,"['data science', 'data analysis', 'engineering', 'B2B']",215152.7,215152.7,Not specified,Walmart
+Security Data Scientist,Not specified,"['AI', 'Machine Learning', 'Data Science', 'Security', 'Agent-centric solutions', 'Security telemetry', 'Experimentation', 'Business analytics']",229339.66,229339.66,Not specified,Microsoft Corporation
+Senior Data Scientist,Senior,"['machine learning', 'information retrieval', 'LLMs', 'Customer Intelligence', 'Segmentation']",197733.5,197733.5,,Walmart
+Senior Data Scientist,Senior,"['machine learning', 'information retrieval', 'LLMs', 'Customer Intelligence', 'Segmentation']",156328.06,156328.06,,Walmart
+Associate Data Scientist,Associate,"['data science', 'data analysis', 'collaboration', 'business intelligence']",98484.92,98484.92,Tennessee,BlueCross BlueShield of Tennessee
+Data Scientist Lead,Lead,[],82984.44,82984.44,"Pittsburgh, PA, Strongsville, OH, Phoenix",PNC
+Not specified,Not specified,"['custom software development', 'information engineering', 'situational awareness capabilities', 'data processing']",157058.5,157058.5,"Charlottesville, VA",General Atomics
+Staff Data Scientist,Staff,"['machine learning', 'information retrieval', 'LLMs', 'Customer Intelligence', 'Segmentation']",158052.73,158052.73,,Walmart
+Business & Data Analytics,,[],147467.55,147467.55,,UnitedHealth Group
+,,[],186663.36,186663.36,,Caris Life Sciences
+Data Scientist Lead,Lead,[],96265.74,96265.74,"Pittsburgh, PA, Strongsville, OH, Phoenix",PNC
+Data Scientist,Senior,"['Python', 'SQL', 'Machine Learning', 'AI', 'Feature Engineering', 'Model Training', 'Data Pipelines', 'Model Deployment']",115812.86,115812.86,"Charlotte, NC",Eliassen Group
+,,[],154367.02,154367.02,,LiveRamp
+,,[],177501.23,177501.23,,LiveRamp
+,,[],97402.82,97402.82,,Mastercard
+Data Scientist,Staff,"['advanced analytics', 'machine learning', 'predictive modeling', 'data visualization', 'data sourcing', 'model validation']",169039.0,169039.0,USA,Walmart
+Not specified,Not specified,['Microsoft Power Platform'],107174.17,107174.17,Not specified,Arup
+Data Scientist,Senior,"['AI-powered search', 'data analysis', 'metrics development', 'online controlled experiments', 'user engagement analysis']",174943.42,174943.42,,Microsoft Corporation
+Principal Data Scientist,Principal,"['Double Machine Learning', 'Causal Modeling', 'Advanced Analytical Models', 'Data Analysis', 'Strategic Decision-Making', 'Mentoring', 'Cross-functional Collaboration']",213856.36,213856.36,,Walmart
+Senior Data Scientist,Senior,"['machine learning', 'AI', 'data science', 'personalization', 'recommendations', 'intelligent automation', 'model development', 'pipeline optimization']",322525.06,322525.06,,Insight Global
+Staff Data Scientist,Staff,"['Data Science', 'Predictive Modeling', 'AI', 'Machine Learning', 'Forecasting', 'Demand Response Optimization', 'EV Charging Optimization']",101593.82,101593.82,"Lehi, UT",US Tech Solutions
+Senior Data Scientist,Senior,"['advanced analytical techniques', 'programming', 'data modeling', 'data ecosystems', 'data quality standards']",145749.5,145749.5,"Seattle, WA",Walmart
+Senior Data Scientist,Senior,"['advanced analytical techniques', 'programming', 'data modeling', 'data ecosystems', 'data quality standards']",132533.28,132533.28,"Seattle, WA",Walmart
+Principal Data Scientist,Principal,"['data science', 'machine learning', 'statistical techniques', 'demand forecasting', 'inventory optimization', 'financial modeling', 'anomaly detection', 'analytics']",163239.78,163239.78,,Solstice Advanced Materials
+Principal Data Scientist,Principal,"['data science', 'machine learning', 'statistical techniques', 'demand forecasting', 'inventory optimization', 'financial modeling', 'anomaly detection', 'analytics']",149358.89,149358.89,,Solstice Advanced Materials
+Data Scientist,Senior/Lead,"['Advanced Analytics', 'Data Science', 'Technical Leadership', 'Mentoring', 'Business Strategy', 'Executive Communication']",231155.14,231155.14,,Microsoft Corporation
+Data Scientist III,Mid to Senior Level,"['Data Science', 'Cybersecurity', 'Data Enrichment']",92653.73,92653.73,"Washington, DC, USA",SOS International LLC
+Not specified,Not specified,[],120774.12,120774.12,Not specified,Dollar General
+Data Science Service Lead,Lead,"['Data Science', 'Algorithm Development', 'Data Tools Automation', 'Data-driven Analysis', 'Business Problem Solving']",115972.68,115972.68,,Mondelez International
+Product Analytics,Not specified,"['Product Analytics', 'Product Management', 'Engineering', 'Machine Learning', 'Recommendation Systems']",258075.66,258075.66,Not specified,Walmart
+Data Scientist Lead,Lead,"['quantitative modeling', 'data-driven solutions', 'predictive modeling', 'data pipelines', 'statistics', 'economics', 'engineering', 'analytics']",293568.03,293568.03,,JPMorgan Chase
+Senior Data Scientist,Senior,[],183319.9,183319.9,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],149603.8,149603.8,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],148118.3,148118.3,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],153072.27,153072.27,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],150558.31,150558.31,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],149539.19,149539.19,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],138992.67,138992.67,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],204521.6,204521.6,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],141097.62,141097.62,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],141815.44,141815.44,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],162535.62,162535.62,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],157588.56,157588.56,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],147625.42,147625.42,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],137082.81,137082.81,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],180058.14,180058.14,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],149867.55,149867.55,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],139253.11,139253.11,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],148311.66,148311.66,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],171199.17,171199.17,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],152827.2,152827.2,"Remote, United States",Norstella
+Principal Data Scientist,Principal,"['AI infrastructure', 'GenAI platforms', 'eCommerce Analytics', 'intelligent automation', 'AI agents', 'real-time decisioning', 'high-performance AI systems']",232250.05,232250.05,,Walmart
+Senior Data Scientist,Senior,[],178740.1,178740.1,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],154743.75,154743.75,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],168251.4,168251.4,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],163162.44,163162.44,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],143091.38,143091.38,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],148303.6,148303.6,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],142485.67,142485.67,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],195178.58,195178.58,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],219051.45,219051.45,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],153247.83,153247.83,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],157127.56,157127.56,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],143494.1,143494.1,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],218396.89,218396.89,"Remote, United States",Norstella
+Senior Data Scientist,Senior,[],214924.86,214924.86,"Remote, United States",Norstella
+Senior Data Scientist,Senior,"['Machine Learning', 'Retail Operations', 'Supply Chain Analytics', 'Demand Forecasting', 'Inventory Allocation', 'Carton Forecasting', 'Optimization Models', 'Model Development', 'Data Analysis', 'Merchandising Analytics', 'Marketing Analytics']",124192.79,124192.79,,Burlington
+Marketing Data Scientist,Mid to Senior Level,"['Marketing Mix Modeling', 'CRM data analysis', 'Data-driven marketing strategy', 'Analytical skills', 'Business acumen', 'Customer engagement analytics', 'Loyalty program analysis']",121056.76,121056.76,,The Hertz Corporation
+Marketing Data Scientist,Mid-level to Senior,"['Marketing Mix Modeling', 'CRM data analysis', 'Data analysis', 'Business acumen', 'Customer engagement analytics', 'Marketing optimization', 'Loyalty program analytics']",110085.71,110085.71,,The Hertz Corporation
+Data Science Consultant,Not specified,"['Data Science', 'Data Analytics', 'Data Querying', 'Data Wrangling', 'Data Engineering', 'Data Visualization', 'Dashboarding', 'Business Intelligence', 'Process Automation', 'Active Secret Clearance']",143347.89,143347.89,Not specified,Guidehouse
+Data Science Engineer,Not specified,"['mathematics', 'statistics', 'semiconductor physics', 'materials science', 'information technology', 'data science', 'memory and storage solutions']",158870.16,158870.16,Not specified,"Micron Technology, Inc."
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business needs and technical solutions']",135242.55,135242.55,Not specified,SMX
+Lead Data Scientist,Lead,"['Descriptive Analytics', 'Predictive Analytics', 'Prescriptive Analytics', 'Marketing Analytics', 'Data Science', 'Marketing Effectiveness', 'Audience Targeting', 'Strategic Insights']",200793.72,200793.72,,JPMorgan Chase
+Not specified,Senior,[],140374.33,140374.33,Not specified,Generac Power Systems
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization']",141115.52,141115.52,Not specified,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business needs and technical solutions']",187227.28,187227.28,Not specified,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-driven Decision Making', 'IT Transformation', 'Modernization']",167413.5,167413.5,,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business and technical solutions']",171703.1,171703.1,Not specified,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business needs and technical solutions']",130428.4,130428.4,Not specified,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business and technical solutions']",134400.89,134400.89,Not specified,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-driven Decision Making', 'IT Transformation', 'Modernization', 'Business Analysis']",138732.05,138732.05,Not specified,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'business needs analysis', 'technical solutions']",129557.38,129557.38,Not specified,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business needs and technical solutions']",132828.48,132828.48,Not specified,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business and technical solutions']",128395.89,128395.89,Not specified,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business and technical solutions']",143142.42,143142.42,Not specified,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'business needs analysis', 'technical solutions']",191561.08,191561.08,Not specified,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business and technical solutions']",167067.88,167067.88,Not specified,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-driven Decision Making', 'IT Transformation', 'Modernization']",133456.5,133456.5,,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business and technical solutions']",121199.88,121199.88,Not specified,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization']",152822.84,152822.84,Not specified,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-driven Decision-making', 'IT Transformation', 'Modernization']",204557.3,204557.3,,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'business analysis', 'technical solutions']",135475.42,135475.42,Not specified,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-driven Decision Making', 'IT Transformation', 'Modernization']",130184.59,130184.59,,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridge business needs and technical solutions']",147170.25,147170.25,Not specified,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business needs and technical solutions']",134023.44,134023.44,Not specified,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-driven Decision Making', 'IT Transformation', 'Modernization']",152235.89,152235.89,Not specified,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-driven Decision Making', 'IT Transformation', 'Modernization']",153044.53,153044.53,Not specified,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-driven Decision Making', 'IT Transformation', 'Modernization']",132167.11,132167.11,,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business needs and technical solutions']",157589.17,157589.17,Not specified,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-driven Decision Making', 'IT Transformation', 'Modernization']",140123.55,140123.55,,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business and technical solutions']",138270.4,138270.4,Not specified,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business needs and technical solutions']",124796.05,124796.05,Not specified,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-driven Decision Making', 'IT Transformation', 'Modernization']",201304.89,201304.89,,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business needs and technical solutions']",138831.58,138831.58,Not specified,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-driven Decision Making', 'IT Transformation', 'Modernization']",140062.89,140062.89,,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business needs and technical solutions']",147602.33,147602.33,Not specified,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-driven Decision Making', 'IT Transformation', 'Modernization']",143536.66,143536.66,,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization']",168647.88,168647.88,Not specified,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-driven Decision Making', 'IT Transformation', 'Modernization']",143372.08,143372.08,,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business and technical solutions']",133366.3,133366.3,Not specified,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business and technical solutions']",140370.45,140370.45,Not specified,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-driven Decision Making', 'IT Transformation', 'Modernization']",138913.02,138913.02,,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business needs and technical solutions']",125924.62,125924.62,Not specified,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-driven Decision Making', 'IT Transformation', 'Modernization']",182810.3,182810.3,,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-Driven Decision-Making', 'IT Transformation', 'Modernization']",168347.06,168347.06,,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business needs and technical solutions']",141017.45,141017.45,Not specified,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-driven Decision Making', 'IT Transformation', 'Modernization']",132156.28,132156.28,,SMX
+Data Scientist,Not specified,"['requirements analysis', 'business process improvement', 'data-driven decision-making', 'IT transformation', 'modernization activities', 'bridging business needs and technical solutions']",205170.17,205170.17,Not specified,SMX
+Data Scientist,Mid-level,"['Data Science', 'Requirements Analysis', 'Business Process Improvement', 'Data-driven Decision Making', 'IT Transformation', 'Modernization']",144987.0,144987.0,,SMX
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'collaboration with product managers']",89722.01,89722.01,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'collaboration with product managers']",109942.7,109942.7,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'data visualization', 'dashboards', 'advanced analytics', 'research', 'reporting', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'collaboration with product managers']",88830.94,88830.94,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'data engineering collaboration', 'product management']",91801.98,91801.98,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'product management collaboration']",86745.78,86745.78,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'data visualization', 'dashboard development', 'research', 'reporting', 'advanced analytics', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'product management']",122658.02,122658.02,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'data visualization', 'dashboards', 'advanced analytics', 'research', 'reporting']",94234.24,94234.24,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'data visualization', 'dashboard development', 'data analysis', 'advanced analytics', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'collaboration with product managers']",91655.02,91655.02,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'data visualization', 'dashboard development', 'research', 'reporting', 'cross-functional collaboration', 'advanced analytics']",88942.15,88942.15,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'collaboration with product managers']",77604.99,77604.99,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'internal and external data analysis', 'advanced analytics', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'collaboration with product managers']",88946.98,88946.98,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'collaboration with product managers']",102673.32,102673.32,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'data engineering collaboration', 'product management collaboration']",97995.49,97995.49,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'data visualization', 'dashboard creation', 'research', 'reporting', 'advanced analytics', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'collaboration with product managers']",106974.74,106974.74,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'data analysis', 'collaboration with data engineers', 'collaboration with software developers', 'collaboration with product managers']",130979.1,130979.1,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'data engineering collaboration', 'product management collaboration']",92804.6,92804.6,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'working with data engineers', 'working with analysts', 'working with software developers', 'working with product managers']",83514.3,83514.3,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'data visualization', 'dashboards', 'advanced analytics', 'working with data engineers', 'working with analysts', 'working with software developers', 'working with product managers']",84627.62,84627.62,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'data engineering collaboration', 'product management']",97477.62,97477.62,,The Hertz Corporation
+Senior Data Scientist,Senior,"['data science', 'analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'working with data engineers', 'working with analysts', 'working with software developers', 'working with product managers']",84620.52,84620.52,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'data engineering collaboration', 'product management']",85050.93,85050.93,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'working with data engineers', 'working with analysts', 'working with software developers', 'product management collaboration']",89683.09,89683.09,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'collaboration with product managers']",91907.45,91907.45,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'data visualization', 'dashboard development', 'research', 'reporting', 'advanced analytics', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'collaboration with product managers']",131371.9,131371.9,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'collaboration with product managers']",83358.11,83358.11,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'reporting', 'data visualization', 'dashboards', 'advanced analytics', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'collaboration with product managers']",117054.61,117054.61,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'reporting', 'data visualization', 'dashboards', 'internal and external data analysis', 'strategic insights', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'collaboration with product managers', 'advanced analytics']",85453.05,85453.05,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'data engineering collaboration', 'product development']",90294.47,90294.47,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'data analysis', 'working with data engineers', 'working with analysts', 'working with software developers', 'working with product managers', 'advanced analytics']",88894.75,88894.75,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'data analysis', 'working with data engineers', 'working with analysts', 'working with software developers', 'working with product managers', 'advanced analytics']",82956.43,82956.43,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'data analysis', 'working with data engineers', 'working with analysts', 'working with software developers', 'working with product managers', 'advanced analytics']",100905.45,100905.45,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'internal and external data analysis', 'advanced analytics', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'collaboration with product managers']",119882.72,119882.72,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'working with data engineers', 'working with analysts', 'working with software developers', 'working with product managers']",86057.75,86057.75,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'collaboration with product managers']",107195.95,107195.95,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'data visualization', 'dashboards', 'research', 'reports', 'data analysis', 'advanced analytics', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'collaboration with product managers']",107986.32,107986.32,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'collaboration with data engineers', 'collaboration with analysts', 'collaboration with software developers', 'collaboration with product managers']",88535.34,88535.34,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'data analysis', 'working with data engineers', 'working with analysts', 'working with software developers', 'working with product managers', 'advanced analytics']",82212.79,82212.79,,The Hertz Corporation
+Senior Data Scientist,Senior,"['analytical methods', 'research', 'data visualization', 'dashboards', 'advanced analytics', 'working with data engineers', 'working with analysts', 'working with software developers', 'working with product managers']",80630.42,80630.42,,The Hertz Corporation
+Staff Data Scientist,Staff,"['Data Science', 'Machine Learning', 'Fraud Detection', 'ML Models', 'Strategic Planning', 'Stakeholder Collaboration']",182806.98,182806.98,,Walmart
+Associate Data Scientist,Associate,"['statistical methods', 'machine learning algorithms', 'data analysis', 'large dataset handling']",88568.96,88568.96,,Xcel Energy
+Unknown,Unknown,[],99447.98,99447.98,Mountains/Resorts across 3 continents,Vail Resorts
+Data Scientist,Mid-level,"['Cloudera Data Science Workbench (CDSW)', 'Databricks', 'Tableau', 'Microsoft Power BI', 'Business Intelligence (BI)', 'Data Science', 'Code Migration', 'PMA Reliability', 'Maintenance Data Analysis']",131059.95,131059.95,"Lexington Park, MD",SMX
+Unknown,Unknown,[],145304.12,145304.12,Unknown,The MITRE Corporation
+Data Scientist,Not specified,"['Data Science', 'Analytics', 'Experimentation frameworks', 'Business metrics monitoring', 'Data-driven decision making']",240070.77,240070.77,Not specified,Microsoft Corporation
+Data Scientist,Mid-level,"['Data Science', 'AI/ML', 'Data Mining', 'System Integration', 'Analytics', 'Physical Access Control Systems']",130964.61,130964.61,,Honeywell
+Security,,[],228088.75,228088.75,,Microsoft Corporation
+Senior Data Scientist,Senior,[],174425.33,174425.33,"Berkeley, MO or Seattle, WA",The Boeing Company
+Senior Data Scientist,Senior,[],96235.73,96235.73,"Denver, CO",PNC
+Not specified,Not specified,"['Microsoft Dynamics 365', 'Power Apps', 'Power Automate', 'Dataverse', 'AI Builder', 'Microsoft Industry Solutions', 'Cloud technologies', 'SaaS']",209340.34,209340.34,Not specified,Microsoft Corporation
+Data Scientist Sr.,Senior,[],78237.38,78237.38,"Pittsburgh, PA, Strongsville, OH, Phoenix, AZ",PNC
+,,[],233744.58,233744.58,,Paramount
+Not specified,Not specified,[],102892.7,102892.7,"601 Elmwood Ave, Rochester, New York, United States of America, 14642",University of Rochester
+Senior Data Scientist,Senior,"['Data Science', 'Team Leadership', 'Business Analysis', 'Modeling and Measuring Techniques', 'Quantitative Analysis', 'Active Secret Clearance']",189164.72,189164.72,,Guidehouse
+Data Scientist Sr.,Senior,[],90758.85,90758.85,"Pittsburgh, PA, Strongsville, OH, Phoenix, AZ",PNC
+"Principal, Data Scientist - Code Puppy AI & Data",Principal,"['data science', 'machine learning', 'agentic AI', 'production ML systems', 'autonomous AI agents', 'data analysis']",265739.2,265739.2,Walmart Global Tech,Walmart
+Staff Data Scientist,Staff,"['data science', 'technology', 'eCommerce', 'analytics']",203154.03,203154.03,,Walmart
+AI Operations Systems Designer/Engineer,Senior/Lead,"['AI systems design', 'GenAI', 'Agentic AI', 'AI agents', 'Operations management', 'Inventory management', 'Enterprise-scale solutions', 'Framework development']",169642.67,169642.67,,Walmart
+Not specified,Not specified,[],96479.89,96479.89,Nevada National Security Site (NNSS),Mission Support and Test Services
+Not specified,Not specified,[],102627.6,102627.6,Nevada National Security Site (NNSS),Mission Support and Test Services
+Not specified,Not specified,[],113067.07,113067.07,Nevada National Security Site (NNSS),Mission Support and Test Services
+Not specified,Not specified,[],106294.2,106294.2,Nevada National Security Site (NNSS),Mission Support and Test Services
+Data Scientist,Senior,"['Data Science', 'Security Engineering', 'Computer Network Operations', 'Mission Software', 'Analytical Methods', 'Modeling', 'Signals Intelligence', 'SIGINT', 'Cryptographic Key Management']",144150.12,144150.12,,Leidos
+Not specified,Not specified,[],114729.72,114729.72,Nevada National Security Site (NNSS),Mission Support and Test Services
+Not specified,Not specified,[],104136.54,104136.54,Nevada National Security Site (NNSS),Mission Support and Test Services
+Not specified,Not specified,[],202226.39,202226.39,Not specified,Microsoft Corporation
+Data Scientist,Not specified,"['generative AI', 'artificial intelligence', 'machine learning', 'statistics', 'deep learning', 'computer vision', 'optimization', 'ML engineering', 'product classification']",221414.48,221414.48,Not specified,WALMART
+Unknown,Unknown,[],215388.58,215388.58,Unknown,Accenture
+,,[],106020.66,106020.66,,Copeland
+Unknown,Unknown,[],121119.58,121119.58,Unknown,Copeland
+,,[],136680.48,136680.48,,EchoStar
+Unknown,Unknown,[],108854.75,108854.75,Unknown,Copeland
+Principal Data Scientist,Principal,"['Data Science', 'Security Engineering', 'Computer Network Operations', 'Mission Software', 'Analytical Methods', 'Modeling', 'Signals Intelligence', 'SIGINT', 'Cryptographic Key Management']",165065.11,165065.11,,Leidos
+Data Analyst/Strategy Consultant,Not specified,"['problem solving', 'data analysis', 'strategic thinking', 'insights generation']",236983.05,236983.05,Not specified,Microsoft Corporation
+Not specified,Not specified,"['A.I.', 'conversational platform', 'natural voice commands', 'text messages', 'UI interactions', 'multi-modal experiences']",176123.44,176123.44,Not specified,Walmart
+Data Scientist,Journeyman,"['data analytics', 'enterprise data', 'DoD experience']",139178.1,139178.1,,Leidos
+Data Scientist,Journeyman,"['Data Science', 'Data Analytics', 'Enterprise Data', 'DoD experience']",142287.16,142287.16,,Leidos
+Senior Data Scientist,Senior,"['Data Science', 'Data Analytics', 'Enterprise Data', 'DoD Experience']",182500.4,182500.4,,Leidos
+Applied Scientist - Personalization,Not specified,"['Large Language Model', 'Graph Neural Network', 'AI solutions', 'Machine Learning', 'Personalization', 'E-commerce']",236614.94,236614.94,Not specified,Walmart
+Not specified,Not specified,[],287094.28,287094.28,Not specified,Walmart
+Not specified,Not specified,"['e-commerce', 'search', 'product discovery', 'data analysis']",207491.08,207491.08,Not specified,Walmart
+Spark Driver Applied AI,Not specified,"['machine learning', 'data science', 'economics']",232479.62,232479.62,United States (all 50 states),Walmart
+Data Scientist/Machine Learning Engineer,Mid to Senior,"['data analysis', 'machine learning', 'complex modeling', 'search algorithms', 'e-commerce', 'large-scale data mining', 'product relevance optimization']",243557.1,243557.1,,Walmart
+Not specified,Not specified,"['e-commerce', 'search', 'product discovery', 'data analysis']",244533.2,244533.2,Not specified,Walmart
+Applied AI LMD,,['machine learning'],200344.22,200344.22,,Walmart
+Not specified,Not specified,[],178037.98,178037.98,Not specified,Accenture
+Analytics Professional,Not specified,"['mathematical techniques', 'statistical techniques', 'analytical techniques', 'data analysis', 'healthcare data analysis', 'forecasting', 'strategic decision-making']",107744.68,107744.68,Not specified,IQVIA
+Not specified,Not specified,[],96889.74,96889.74,"601 Elmwood Ave, Rochester, New York, United States of America, 14642",University of Rochester
+Business & Data Analytics,,[],161910.45,161910.45,,UnitedHealth Group
+Data Analyst,Mid-level,"['Data acquisition', 'Data processing', 'Data analysis', 'Descriptive analytics', 'Predictive analytics', 'Prescriptive analytics', 'Data management', 'Data presentation']",91903.41,91903.41,,GE Vernova
+Data Analyst,Mid-level,"['Data acquisition', 'Data processing', 'Data analysis', 'Descriptive analytics', 'Predictive analytics', 'Prescriptive analytics', 'Data management', 'Data presentation']",128141.33,128141.33,,GE Vernova
+Business & Data Analytics,,[],133146.94,133146.94,,UnitedHealth Group
+,,[],219182.27,219182.27,,Accenture
+Senior Computer Scientist (Contract PM),Senior,"['Computer Science', 'Project Scoping', 'Project Planning', 'Full lifecycle engineering projects', 'Project Management', 'Development Management', 'Implementation Management']",128899.52,128899.52,,TekSynap
+Data Analyst - Semiconductor Manufacturing,Mid-level,"['data analysis', 'large dataset analysis', 'semiconductor manufacturing knowledge', 'process optimization', 'quality control', 'cross-functional collaboration']",171654.31,171654.31,,"Micron Technology, Inc."
+Data Scientist,Not specified,"['Data Science', 'Analytics', 'Experimentation frameworks', 'Business metrics monitoring', 'Cross-functional collaboration']",216330.39,216330.39,Not specified,Microsoft Corporation
+Data Scientist I,Junior,"['Data Analysis', 'Data Visualization', 'Microsoft Power Platform', 'Data Analytics', 'Automation', 'Secret Clearance']",93184.18,93184.18,"Suffolk, VA",SDA Solutions LLC
+Data Scientist,Senior,"['AI', 'Machine Learning', 'Data Science', 'Retrieval Augmented Generation (RAG)', 'AI/ML solution design', 'AI/ML implementation']",105143.74,105143.74,,RealmOne
+Senior Data Scientist,Senior,"['intelligence experience', 'intelligence analysis', 'data science', 'intelligence mission support', 'senior level operation', 'independent work', 'large data sets processing', 'TS/SCI clearance']",121319.34,121319.34,"NGA Campus East (NCE), Springfield, VA",Integrity First Technologies LLC
+Data Scientist,Senior,"['data processing', 'analyzing large datasets', 'analytic processes', 'scripting', 'data modeling']",98496.57,98496.57,,"Tailored Access, LLC"
+Data Scientist,Mid-level,"['NLP', 'Natural Language Processing', 'Tokenization', 'Machine Learning', 'Parts of Speech Tagging', 'Model Evaluation', 'Language Data Annotation', 'Speech Processing', 'Text Processing']",112997.98,112997.98,,"Tailored Access, LLC"
+Data Scientist,Senior,"['large structured data', 'unstructured data', 'modeling', 'analytical environment', 'dataset evaluation', 'intelligence analysis', 'solution design', 'process refinement', 'stakeholder management', 'TS/SCI clearance']",114789.8,114789.8,"Springfield, VA",Anonymous Employer
+Data Analyst/Data Scientist,Not specified,"['Python', 'R', 'Statistical Analysis', 'Data Manipulation', 'Data Analysis', 'Algorithm Implementation', 'NumPy', 'pandas', 'Data Visualization', 'Probability', 'In-scope polygraph clearance']",128814.73,128814.73,Not specified,Avid Technology Professionals
+Data Scientist (Big Data),Senior,"['Big Data', 'Data Science', 'Machine Learning', 'Analytics', 'Data Engineering']",154843.11,154843.11,Philadelphia Region,Robert Half
+AI Engineer/Applied Data Scientist,Mid to Senior,"['AI engineering', 'applied data science', 'machine learning', 'generative AI', 'agentic AI', 'data exploration', 'modeling', 'production deployment']",167441.61,167441.61,"Draper, UT",Kforce Technology Staffing
+Technical Manager - Warranty Analytics and Programs,Manager,"['Data Analytics', 'Predictive Analytics', 'Team Leadership', 'Data Science', 'Quality Management', 'Strategic Thinking']",89385.69,89385.69,,Stellantis
+Lead Data Scientist,Lead,"['AI/ML', 'advanced analytics', 'data visualization', 'targeting', 'lead prioritization']",178045.28,178045.28,"Springfield, VA","Zachary Piper Solutions, LLC"
+Data Scientist,Level 3,"['Big Data Platform management', 'programming languages', 'algorithm development', 'data visualization', 'analytics', 'machine learning', 'data science', 'advanced analytical algorithms', 'data mining', 'advanced statistical analysis', 'mathematics']",108105.84,108105.84,,Gormat
+Data Scientist,Not specified,"['statistical learning', 'predictive modeling', 'analytic tradecraft', 'exploratory data analysis', 'model development', 'advanced algorithmic approaches', 'economic data analysis', 'industrial data analysis', 'logistics data analysis', 'geospatial data analysis']",118481.41,118481.41,Not specified,Gateway Geospatial Group
+Data Scientist,Mid-level,"['statistical learning', 'predictive modeling', 'analytic tradecraft', 'exploratory data analysis', 'model development', 'advanced algorithms', 'pattern recognition', 'predictive intelligence', 'economic data analysis', 'industrial data analysis', 'logistics data analysis', 'geospatial analysis']",133837.84,133837.84,,Gateway Geospatial Group
+Data Scientist,Mid-level,"['advanced analytics', 'statistical modeling', 'machine learning']",90633.52,90633.52,"Chantilly, VA",SOSi
+Senior Data Scientist,Senior,"['AI/ML development', 'advanced analytics', 'automation', 'predictive modeling', 'prescriptive modeling', 'technical leadership']",128897.19,128897.19,"Washington, DC (Hybrid)",Big Impact Tech
+Senior Data Scientist - Operations & Analytics,Senior,"['analytics', 'machine learning', 'data science', 'operational strategy', 'data discovery', 'production deployment', 'performance measurement', 'mentoring']",230924.02,230924.02,"Phoenix, AZ",Kforce Technology Staffing
+Data Scientist,,"['Big Data Platform management', 'programming languages', 'algorithm development', 'data visualization', 'analytics']",86767.88,86767.88,,RealmOne
+Data Scientist,Lead,"['IoT', 'machine learning', 'artificial intelligence', 'structured data', 'unstructured data', 'data analysis']",180841.84,180841.84,,Booz Allen Hamilton
+Lead Data Scientist,Lead,"['data science', 'AI', 'data analytics', 'data architecture', 'collaboration', 'design', 'development', 'implementation']",128964.69,128964.69,"Alexandria, VA",MANTECH
+Data Scientist,Senior,"['IoT', 'machine learning', 'artificial intelligence', 'Palantir Foundry']",182052.44,182052.44,,Booz Allen Hamilton
+Senior Data Scientist,Senior,"['data analytics', 'data engineering', 'data mining', 'exploratory analysis', 'predictive analysis', 'statistical analysis', 'data visualization', 'data correlation', 'information retrieval', 'data analysis']",181623.23,181623.23,,Prescient Edge
+Data Scientist III,Senior,"['data science', 'engineering', 'advanced technology solutions', 'national security']",140810.1,140810.1,,KBR
+Data Scientist II,Mid-level,"['data science', 'engineering', 'advanced technology solutions']",134529.89,134529.89,,KBR
+Data Scientist,Mid-level,"['mathematics', 'statistics', 'computer science', 'analytic modeling', 'statistical analysis', 'programming', 'data analysis', 'quantitative methods', 'qualitative methods', 'large dataset management']",83790.97,83790.97,,"DigiFlight, Inc."
+Data Scientist III,Senior,"['advanced analytical techniques', 'data-oriented programming languages', 'statistical methods', 'data visualization', 'data mining', 'modeling', 'natural language processing', 'machine learning']",125255.45,125255.45,,"Mayvin, Inc"
+Data Scientist,Level 3,"['Agentic AI', 'RAG', 'Machine Learning', 'Model Training', 'Enterprise Data Processing', 'AI Integration', 'Malware Detection', 'Malware Analysis', 'Mathematical Foundations', 'Computational Foundations', 'Statistical Foundations', 'Data Management', 'Data Curation', 'Data Description', 'Data Visualization', 'Workflow']",118149.34,118149.34,,Gormat
+Data Scientist,Level 3,"['Python', 'Jupyter Notebook', 'AI/ML', 'NLP', 'Mathematical foundations', 'Computational foundations', 'Statistical foundations', 'Data management and curation', 'Data description and visualization', 'Workflow and reproducibility', 'Data modeling and assessment']",120430.45,120430.45,,"Gormat, LLC"
+Data Scientist,Level 3,"['machine learning', 'analytical prototyping', 'scripting', 'automation', 'digital visualization', 'statistical analysis', 'TechSIGINT tools', 'mathematical foundations', 'computational foundations', 'statistical foundations', 'data processing']",113451.38,113451.38,,"Gormat, LLC"
+Data Scientist,Entry to Mid-level,"['Data analysis', 'Data visualization', 'High-volume data management', 'Analytical insights', 'Coordination with program teams', 'Process improvement']",112805.67,112805.67,,COLSA CORP.
+Data Scientist,Experienced,"['automated processes', 'workflow development', 'legacy tools', 'advanced tools', 'Department of Defense experience', 'Intel Community experience']",130215.13,130215.13,,James Scott Group
+Data Scientist,Mid,"['IoT', 'machine learning', 'artificial intelligence', 'AI', 'structured data analysis', 'unstructured data analysis']",158543.67,158543.67,,Booz Allen Hamilton
+Applied Data Scientist,Mid-level,"['data science', 'machine learning', 'AI', 'algorithm development', 'structured data analysis', 'unstructured data analysis', 'intelligent systems design', 'model deployment']",208395.77,208395.77,,Booz Allen Hamilton
+Data Scientist,Mid,"['IoT', 'machine learning', 'artificial intelligence', 'structured data', 'unstructured data', 'data analysis']",131223.16,131223.16,,Booz Allen Hamilton
+Data Scientist,Mid,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",132546.8,132546.8,,Booz Allen Hamilton
+Data Scientist I,Entry Level,[],135569.77,135569.77,,KBR
+Data Scientist,Mid-level,"['SQL', 'Python', 'Pandas', 'PySpark', 'Polars', 'ETL', 'Data Transformation', 'Data Modeling', 'Data Validation', 'Automation', 'Reporting']",131195.0,131195.0,,"Gormat, LLC"
+Data Scientist,Level 3,"['Python', 'Jupyter Notebooks', 'Workflow Automation', 'Data Manipulation', 'Data Visualization', 'Mathematical Foundations', 'Computational Foundations', 'Statistical Foundations', 'Data Processing', 'Data Management', 'Data Curation']",116812.28,116812.28,,"Gormat, LLC"
+Data Scientist,Mid-level to Senior,"['SQL', 'Python', 'Pandas', 'PySpark', 'Polars', 'ETL workflows', 'Data transformation', 'Data modeling', 'Data validation', 'Data preprocessing', 'Automation', 'Reporting']",126630.32,126630.32,,"Gormat, LLC"
+Data Scientist,highly skilled,"['Data Science', 'MLOps', 'Analytics']",103806.26,103806.26,Hu,SOSi
+Data Scientist,Senior,"['AI/ML', 'Data Science', 'Retrieval Augmented Generation (RAG)', 'AI system design', 'AI implementation']",154637.69,154637.69,,"Gormat, LLC"
+Data Scientist,Mid,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",143513.53,143513.53,,Booz Allen Hamilton
+Data Scientist,Senior,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",175269.73,175269.73,,Booz Allen Hamilton
+Data Scientist,Senior,"['data science', 'IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",189964.86,189964.86,,Booz Allen Hamilton
+Data Scientist,Senior,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",173009.03,173009.03,,Booz Allen Hamilton
+Senior Data Scientist,Senior,['data science'],151103.92,151103.92,"['Northern Virginia', 'St. Louis, MO', 'Tampa, FL']",ECS
+Data Scientist,Senior,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",215687.45,215687.45,,Booz Allen Hamilton
+Unknown,Unknown,[],138750.03,138750.03,Unknown,Vantor
+Data Scientist,Mid,"['IoT', 'machine learning', 'artificial intelligence', 'data organization', 'Palantir Foundry', 'end-to-end solutions', 'problem-solving']",157818.08,157818.08,,Booz Allen Hamilton
+Data Scientist,Mid,"['IoT', 'machine learning', 'artificial intelligence', 'data organization', 'Palantir Foundry', 'end-to-end solutions', 'problem-solving']",126302.27,126302.27,,Booz Allen Hamilton
+Unknown,Unknown,[],165249.08,165249.08,Unknown,Vantor
+Unknown,Unknown,[],137676.58,137676.58,Unknown,Vantor
+Senior Data Scientist,Senior,"['data science', 'analytics', 'AI', 'technical leadership', 'collaboration', 'classified environments', 'national security']",140739.47,140739.47,,Leidos
+Cyber Risk Management Data Scientist,Mid to Senior Level,"['data science', 'IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis', 'cyber risk management']",194187.5,194187.5,,Booz Allen Hamilton
+,,[],189119.27,189119.27,,Plateau Software Inc
+Sr. Data Scientist,Senior,"['enterprise-wide logistics data', 'financial data', 'Marine Corps logistics systems', 'DoD SECRET clearance']",81144.33,81144.33,Pentagon (On-Site),"Knowledge Management, Inc"
+Not specified,Seasoned professional,"['Management consulting', 'Technology consulting', 'Security clearance (cleared areas)']",80569.16,80569.16,Not specified,River Hawk Consulting LLC
+Data Scientist,Mid-level to Senior,"['SIGINT', 'Computer scripting', 'Statistical analysis', 'Data modeling', 'API interaction', 'Python', 'Jupyter notebooks', 'Pandas', 'Data visualization', 'Shapely', 'GeoPandas', 'Plotly', 'AMOD tools', 'Networking', 'HTML', 'Bootstrap']",97139.09,97139.09,,"Gormat, LLC"
+Senior Data Scientist,Senior,"['data science', 'data analysis', 'actionable insights']",159612.77,159612.77,"['Joint Base Lewis-McChord, WA', 'Sneads Ferry, NC', 'Fayetteville, NC', 'Northern VA']",ECS
+Data Scientist,mid-level,"['working with large datasets', 'working with complex datasets', 'data analysis', 'cross-functional collaboration', 'actionable insights delivery', 'product optimization', 'process optimization']",144915.4,144915.4,National Capital Region (NCR),"Castellum, Inc"
+Data Scientist Foundational Model Science,Senior,"['Foundational Model Design', 'Machine Learning', 'Multimodal AI', 'Model Training', 'AI Governance', 'Research', 'Technical Leadership', 'Agentic Workflows', 'Sovereign AI']",135870.56,135870.56,,Mayo Clinic
+Data Scientist,Mid,"['data analysis', 'structured data', 'unstructured data', 'machine learning', 'artificial intelligence']",118743.84,118743.84,,Booz Allen Hamilton
+Not specified,Not specified,[],238222.97,238222.97,Not specified,Peraton
+Data Scientist,Mid-level,"['data analytics', 'data engineering', 'data mining', 'exploratory analysis', 'predictive analysis', 'statistical analysis', 'AI tools development', 'data visualization', 'scientific techniques']",139503.94,139503.94,,BigBear.ai
+Unknown,Unknown,[],181947.44,181947.44,Unknown,Leidos
+Senior Data Scientist,Senior,[],170362.83,170362.83,,"Bart & Associates, LLC"
+Data Scientist,Mid,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis', 'data set analysis']",160477.27,160477.27,,Booz Allen Hamilton
+Data Scientist,Senior,"['analytics', 'machine learning', 'artificial intelligence', 'IoT', 'data science', 'consulting']",168878.03,168878.03,,Booz Allen Hamilton
+Senior Data Scientist,Senior,"['data analytics', 'data engineering', 'data mining', 'exploratory analysis', 'predictive analysis', 'statistical analysis', 'scientific techniques', 'data visualization', 'AI tools development']",150014.55,150014.55,,BigBear.ai
+Data Scientist III,Mid to Senior Level,"['data science', 'cybersecurity', 'data enrichment']",94755.84,94755.84,,SOSi
+Data Scientist,Mid,"['IoT', 'machine learning', 'artificial intelligence', 'structured data analysis', 'unstructured data analysis']",159580.66,159580.66,,Booz Allen Hamilton
+Senior Data Scientist,Senior,"['TS/SCI clearance', 'Counterintelligence Polygraph']",196633.05,196633.05,National Capital Region,CELESTAR CORPORATION
+Data Scientist,Mid,"['Python', 'TS/SCI clearance', 'CI polygraph', 'STEM field background']",104277.66,104277.66,"Springfield, VA","Clear Resolution Consulting, LLC"
+Data Scientist I,Entry-level,"['Power BI', 'Dashboards', 'Interactive visual reports', 'Queries and functions', 'KPI definition and tracking', 'Data analysis', 'Reporting', 'Acquisition strategies', 'Strategic planning', 'Program management documentation']",112999.7,112999.7,,Integral Federal
+Not specified,Not specified,[],132587.27,132587.27,Not specified,Peraton
+Workforce Data Scientist,Senior,"['Data Science', 'TS/SCI Clearance', 'CI Poly']",118557.7,118557.7,"Springfield, VA",CIDIS LLC
