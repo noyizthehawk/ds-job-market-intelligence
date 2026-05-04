@@ -16,15 +16,17 @@ st.title(" Data Science Job Market Intelligence")
 st.markdown("Real insights from 1,000+ live job postings")
 
 # load data
-df = pd.read_csv("data/jobs_clean.csv")
+import os
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+df = pd.read_csv(os.path.join(BASE_DIR, "data", "jobs_clean.csv"))
 df["skills"] = df["skills"].apply(ast.literal_eval)
 df["skills"] = df["skills"].apply(lambda x: [s.lower() for s in x])
 
 # load model
-with open("models/salary_predictor.pkl", "rb") as f:
+with open(os.path.join(BASE_DIR, "models", "salary_predictor.pkl"), "rb") as f:
     model = pickle.load(f)
 
-with open("models/feature_columns.pkl", "rb") as f:
+with open(os.path.join(BASE_DIR, "models", "feature_columns.pkl"), "rb") as f:
     feature_columns = pickle.load(f)
 
 # overview stats
